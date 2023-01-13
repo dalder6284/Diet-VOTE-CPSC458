@@ -1,0 +1,1363 @@
+[
+    {
+        "NAME": "AIDS Federal Policy / Recommittal",
+        "ENGLISH": "a recommittal of federal funds for AIDS testing and research",
+        "BNUMBER": "HR-5142",
+        "SYNONYMS": [
+            "AIDS"
+        ],
+        "DATE-OF-VOTE": "9 23 1988",
+        "VOTE-TALLY": "'REJECTED 105 279 (LIST 'D 10 220 'R 95 59)",
+        "PRES-POS": "FOR",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "AIDS"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "AIDS PRO C HR-5142 BILL"
+        ],
+        "STANCE-AGN": [
+            "GAY-RIGHTS CON B HR-5142 BILL ",
+            "SPENDING CON B HR-5142 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1644",
+        "REMARKS": [
+            "McCollum (R-FL) motion to recommit to the Energy and Commerce ",
+            "Committee the bill to authorize $1.2 billion over three years for",
+            "voluntary AIDS blood testing, to create federal guarantees of",
+            "confidentiality of test results, to expedite federal AIDS research",
+            "efforts, and to establish a national AIDS commission, with ",
+            "instructions to add language requiring physicians to notify spouses",
+            "of those who test positive for the AIDS virus.\""
+        ]
+    },
+    {
+        "NAME": "Anti-Apartheid Act",
+        "ENGLISH": "an override of the veto of the Anti-Apartheid Act",
+        "BNUMBER": "HR-4868",
+        "SYNONYMS": [
+            "S-AFRICA-SANC"
+        ],
+        "DATE-OF-VOTE": "9 29 1986",
+        "VOTE-TALLY": "'PASSED 313 83 (LIST 'D 232 4) (LIST 'R 81 79)",
+        "PRES-POS": "AGN",
+        "SESSION": "99-2",
+        "MAJORITY-FACTOR": "2",
+        "ISSUES": [
+            "APARTHEID"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "APARTHEID CON B HR-4868 BILL"
+        ],
+        "STANCE-AGN": [
+            "SOUTH-AFRICA PRO B HR-4868 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.769",
+        "REMARKS": [
+            "Attempt to override veto of bill imposing sanctions on South",
+            "African government.\""
+        ]
+    },
+    {
+        "NAME": "Balanced Budget and Emergency Deficit Control Act",
+        "ENGLISH": "the Gramm-Rudman-Hollings Deficit Reduction Act",
+        "BNUMBER": "HJR-372",
+        "SYNONYMS": [
+            "GRM-RDMN-DEF-RED",
+            "GRAMM",
+            "RUDMAN",
+            "HOLLINGS"
+        ],
+        "DATE-OF-VOTE": "12 11 1985",
+        "VOTE-TALLY": "'ADOPTED 271 154 (LIST 'D 118 130) (LIST 'R 153 24)",
+        "PRES-POS": "FOR",
+        "SESSION": "99-1",
+        "ISSUES": [
+            "BALANCED-BUDGET",
+            "SPENDING"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "BALANCED-BUDGET PRO B HJR-372 BILL"
+        ],
+        "STANCE-AGN": [
+            "SPENDING PRO B HJR-372 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.761",
+        "REMARKS": [
+            "Conference report on joint resolution establishing maximum",
+            "limits on the federal deficit.\""
+        ]
+    },
+    {
+        "NAME": "Capital Gains Reduction - 1989",
+        "ENGLISH": "the 1989 Capital Gains Reduction Act",
+        "BNUMBER": "HR-3299",
+        "SYNONYMS": [
+            "CAP-GAINS-CUT"
+        ],
+        "DATE-OF-VOTE": "9 28 1989",
+        "VOTE-TALLY": "'REJECTED (LIST 'SELECTED 'ALTENATIVE) 190 239 (LIST 'D 189 64) (LIST 'R 1 175)",
+        "PRES-POS": "AGN",
+        "SESSION": "101-1",
+        "ISSUES": [
+            "TAXES",
+            "CAPITAL-GAINS"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "HELP-WEALTHY CON B HR-3299 BILL ",
+            "TAXES PRO C HR-3299 BILL ",
+            "FISCAL-RESPONSIBILITY PRO B HR-3299 BILL"
+        ],
+        "STANCE-AGN": [
+            "BUSH PRO B HR-3299 BILL ",
+            "CUT-TAXES PRO B HR-3299 BILL ",
+            "CAPITAL-GAINS-TAX-CUT PRO C HR-3299 BILL ",
+            "SPUR-INVESTMENT PRO C HR-3299 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 29 1989",
+        "SYMBOL": "BILL.708",
+        "REMARKS": [
+            "Rostenkowski amendment to strike the Jenkins-Archer",
+            "capital gains tax cut included in the reconciliation",
+            "bill and substitute restored deductibility for ",
+            "Individual Retirement Accounts, a deficit-reduction",
+            "trust fund and an increase from 28 to 33 percent",
+            "in the marginal tax rates for the highest incomes.",
+            "A nay vote was a vote supporting the president's",
+            "position.\""
+        ]
+    },
+    {
+        "NAME": "Child Care",
+        "ENGLISH": "the child care bill",
+        "BNUMBER": "HR-3",
+        "SYNONYMS": [
+            "CHILD-CARE"
+        ],
+        "DATE-OF-VOTE": "3 29 1990",
+        "VOTE-TALLY": "'PASSED 265 145 'R 47 119 'D 218 26",
+        "PRES-POS": "AGN",
+        "SESSION": "101-2",
+        "ISSUES": [
+            "CHILD-CARE"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "CHILD-CARE PRO B HR-3 BILL ",
+            "FAMILY PRO B HR-3 BILL ",
+            "EDUCATION PRO C HR-3 BILL ",
+            "LABOR PRO C HR-3 BILL"
+        ],
+        "STANCE-AGN": [
+            "FISCAL-RESPONSIBILITY PRO B HR-3 BILL ",
+            "BUSH PRO B HR-3 BILL ",
+            "LABOR CON C HR-3 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 28 1990",
+        "SYMBOL": "BILL.356",
+        "REMARKS": [
+            "Provide greater federal funding for child care.\""
+        ]
+    },
+    {
+        "NAME": "Civil Rights Restoration Act/Passage",
+        "ENGLISH": "an override of the veto of the Civil Rights Restoration Act",
+        "BNUMBER": "S-557",
+        "SYNONYMS": [
+            "CIVIL-RIGHTS-RESTORATION-ACT"
+        ],
+        "DATE-OF-VOTE": "3 22 1988",
+        "VOTE-TALLY": "'PASSED 292 133 (LIST 'D 240 10 'R 52 123)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "MAJORITY-FACTOR": "2",
+        "ISSUES": [
+            "CIVIL-RIGHTS"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "CIVIL-RIGHTS PRO B S-557 BILL ",
+            "FAIRNESS PRO B S-557 BILL ",
+            "AGE-DISCRIMINATION CON B S-557 BILL ",
+            "EDUCATION-RIGHTS PRO B S-557 BILL"
+        ],
+        "STANCE-AGN": [
+            "REAGAN PRO B S-557 BILL ",
+            "DEREGULATION PRO B S-557 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1513",
+        "REMARKS": [
+            "A two-thirds majority of those present and voting (284 in this",
+            "case) of both houses is required to override a veto.  A nay was a ",
+            "vote supporting the president's position.",
+            "Passage, over President Reagan's March 16 veto, of the bill to provide",
+            "broad coverage of four civil rights laws - Title IX of the 1972 ",
+            "Education Act Amendments, Title VI of the 1964 Civil Rights Act, Section",
+            "504 of the 1973 Rehabilitation Act, and the 1975 Age Discrimination Act -",
+            "by making clear that if one entity of an institution receives federal ",
+            "funds, the entire institution must abide by the anti-discrimination laws.\""
+        ]
+    },
+    {
+        "NAME": "Coast Guard Authorization / Reflagging Persian Gulf Ships",
+        "ENGLISH": "an amendment to bar reflagging of Persian Gulf ships",
+        "BNUMBER": "HR-2342",
+        "SYNONYMS": [
+            "REFLAGGING-SHIPS"
+        ],
+        "DATE-OF-VOTE": "7 8 1987",
+        "VOTE-TALLY": "'REJECTED 126 283 (LIST 'D 113 125 'R 13 158)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-1",
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "PERSIAN-GULF CON B HR-2342 BILL ",
+            "NON-INVOLVEMENT PRO B HR-2342 BILL"
+        ],
+        "STANCE-AGN": [
+            "REAGAN PRO B HR-2342 BILL ",
+            "PERSIAN-GULF PRO B HR-2342 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1514",
+        "REMARKS": [
+            "Bennet (D-FL) amendment to bar the registration under U.S. ",
+            "ownership of any ships controlled by countries bordering ",
+            "the Persian Gulf.  A nay was a vote supporting the president's",
+            "position.\""
+        ]
+    },
+    {
+        "NAME": "Contra Aid / Passage",
+        "ENGLISH": "the Contra Aid package",
+        "BNUMBER": "HJR-484",
+        "SYNONYMS": [
+            "CONTRA-AID2"
+        ],
+        "DATE-OF-VOTE": "3 3 1988",
+        "VOTE-TALLY": "'REJECTED 208 216 (LIST 'D 203 45 'R 5 171)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "CONTRAS"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "COMPASSION PRO B HJR-484 BILL ",
+            "HUMANITARIANISM PRO B HJR-484 BILL ",
+            "END-OF-HOSTILITIES PRO B HJR-484 BILL ",
+            "MILITARY-SOLUTION CON C HJR-484 BILL"
+        ],
+        "STANCE-AGN": [
+            "REAGAN PRO B HJR-484 BILL ",
+            "CONTRAS PRO B HJR-484 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1516",
+        "REMARKS": [
+            "Passage of the joint resolution to provide $30.8 million in",
+            "unspent Pentagon funds for humanitarian aid for the Nicaraguan",
+            "Contras.  The package would provide $14.45 million for food, ",
+            "clothing, and medical needs of the Nicaraguan Contras, $1.44 ",
+            "million for aid to Indian groups in Nicaragua, and $14.56 million",
+            "for children wounded and displaced by the Nicaraguan war.",
+            "Aid to the Contras would be administered by the Defense Department",
+            "or, in the event of a ceasefire, by the Agency for International",
+            "Development.  A nay was a vote supporting the president's ",
+            "position.  (A modified bill calling for $48 million in humanitarian",
+            "aid was later passed by a vote of 345-70.)\""
+        ]
+    },
+    {
+        "NAME": "Death Penalty for Drug Dealers",
+        "BNUMBER": "X3",
+        "SYNONYMS": [
+            "DEATH-TO-DEALERS"
+        ],
+        "PRES-POS": "FOR",
+        "ISSUES": [
+            "DEATH-PENALTY",
+            "DRUGS"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "DRUGS PRO B X3 BILL ",
+            "DEATH-PENALTY PRO C X3 BILL"
+        ],
+        "STANCE-AGN": [
+            "DEATH-PENALTY CON B X3 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "7 27 1989",
+        "SYMBOL": "BILL.1216",
+        "REMARKS": [
+            "Hypothetical bill which would stipulate a mandatory death",
+            "penalty for convicted drug dealers.\""
+        ]
+    },
+    {
+        "NAME": "Defense Authorization, Fiscal 1988 / Chemical Weapons",
+        "BNUMBER": "AMD",
+        "SYNONYMS": [
+            "DEFENSE-AUTHORIZATION"
+        ],
+        "DATE-OF-VOTE": "5 18 1987",
+        "VOTE-TALLY": "'REJECTED 191 230 (LIST 'D 161 86 'R 30 144)",
+        "PRES-POS": "AGN",
+        "SESSION": "100",
+        "ISSUES": [
+            "DEFENSE",
+            "CHEMICAL-WEAPONS"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "CHEMICAL-WEAPONS CON B AMD BILL"
+        ],
+        "STANCE-AGN": [
+            "REAGAN PRO B AMD BILL ",
+            "CHEMICAL-WEAPONS PRO B AMD BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1511",
+        "REMARKS": [
+            "Fascell (D-FL) amendment to bar final assemply during fiscal 1988",
+            "of binary chemical munitions.  A nay was a vote supporting the",
+            "president's position.\""
+        ]
+    },
+    {
+        "NAME": "Defense Spare Parts Procurement Reform Act",
+        "BNUMBER": "HR-5167",
+        "SYNONYMS": [
+            "CANCEL-MX-MISSILE"
+        ],
+        "DATE-OF-VOTE": "5 16 1984",
+        "VOTE-TALLY": "'REJECTED 212 218 (LIST 'D 194 71 'R 18 147)",
+        "PRES-POS": "AGN",
+        "SESSION": "98-2",
+        "ISSUES": [
+            "MX"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "MX CON B HR-5167 BILL ",
+            "DEFENSE-SPENDING CON C HR-5167 BILL"
+        ],
+        "STANCE-AGN": [
+            "MX PRO B HR-5167 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3047",
+        "REMARKS": [
+            "Amendment striking the authorization for the MX missile program.\""
+        ]
+    },
+    {
+        "NAME": "Department of Defense Authorization Act, Fiscal 1987",
+        "BNUMBER": "HR-4428",
+        "SYNONYMS": [
+            "LIMIT-SDI"
+        ],
+        "DATE-OF-VOTE": "8 12 1986",
+        "VOTE-TALLY": "'ADOPTED 239 176 (LIST 'D 206 34) (LIST 'R 33 142)",
+        "PRES-POS": "AGN",
+        "SESSION": "99-2",
+        "ISSUES": [
+            "SDI"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "SDI CON B HR-4428 BILL"
+        ],
+        "STANCE-AGN": [
+            "SDI PRO B HR-4428 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.766",
+        "REMARKS": [
+            "Amendment to limit funds for the strategic defense initiative.\""
+        ]
+    },
+    {
+        "NAME": "Employee Polygraph Protection Act",
+        "BNUMBER": "HR-1524",
+        "SYNONYMS": [
+            "BAN-POLYGRAPH"
+        ],
+        "DATE-OF-VOTE": "3 12 1986",
+        "VOTE-TALLY": "'PASSED 236 173 (LIST 'D 197 41) (LIST 'R 39 132)",
+        "PRES-POS": "AGN",
+        "SESSION": "99-2",
+        "ISSUES": [
+            "PRIVACY"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "PRIVACY PRO B HR-1524 BILL"
+        ],
+        "STANCE-AGN": [
+            "PRIVACY CON B HR-1524 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.762",
+        "REMARKS": [
+            "Bill to prohibit the use of polygraph tests as a condition ",
+            "for employment.\""
+        ]
+    },
+    {
+        "NAME": "Equal Access Act",
+        "BNUMBER": "HR-5345",
+        "SYNONYMS": [
+            "OK-SCHOOL-PRAY"
+        ],
+        "DATE-OF-VOTE": "5 15 1984",
+        "VOTE-TALLY": "'REJECTED (LIST 'FAILED 'OF 'TWO-THIRDS 'MARGIN) 270 151 (LIST 'D 122 134 'R 148 17)",
+        "PRES-POS": "FOR",
+        "SESSION": "98-2",
+        "MAJORITY-FACTOR": "2",
+        "ISSUES": [
+            "SCHOOL-PRAYER",
+            "CONSTITUTION"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "PRAYER PRO B HR-5345 BILL"
+        ],
+        "STANCE-AGN": [
+            "PRAYER CON C HR-5345 BILL ",
+            "CONSTITUTION PRO B HR-5345 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3043",
+        "REMARKS": [
+            "Bill providing that no federal education funds can go to state or",
+            "local educational agencies that discriminate against any meetings",
+            "of students in public secondary schools who wish to meet voluntarily",
+            "for religious purposes.\""
+        ]
+    },
+    {
+        "NAME": "Equal Rights Amendment to the US Constitution",
+        "BNUMBER": "HJR-1",
+        "SYNONYMS": [
+            "APPROVE-ERA"
+        ],
+        "DATE-OF-VOTE": "11 15 1983",
+        "VOTE-TALLY": "'REJECTED (LIST 'FAILED 'OF 'TWO-THIRDS 'MARGIN) 278 147 (LIST 'D 225 37 'R 53 110)",
+        "PRES-POS": "AGN",
+        "SESSION": "98-1",
+        "MAJORITY-FACTOR": "2",
+        "ISSUES": [
+            "WOMENS-RIGHTS",
+            "ERA",
+            "EQUITY",
+            "FAIRNESS"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "ERA PRO B HJR-1 BILL ",
+            "WOMENS-RIGHTS PRO B HJR-1 BILL ",
+            "FAIRNESS PRO B HJR-1 BILL ",
+            "EQUITY PRO B HJR-1 BILL"
+        ],
+        "STANCE-AGN": [
+            "ERA CON B HJR-1 BILL ",
+            "EQUITY CON C HJR-1 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3045",
+        "REMARKS": [
+            "Amendment to the U.S. Constitution relative to equal rights for men",
+            "and women.\""
+        ]
+    },
+    {
+        "NAME": "Fair Practices and Procedures in Automotive Products Act of 1983",
+        "BNUMBER": "HR-1234",
+        "SYNONYMS": [
+            "ESTAB-DOM-CONTENT"
+        ],
+        "DATE-OF-VOTE": "11 3 1983",
+        "VOTE-TALLY": "'ADOPTED 219 199 (LIST 'D 187 67 'R 32 132)",
+        "PRES-POS": "AGN",
+        "SESSION": "98-1",
+        "ISSUES": [
+            "TRADE",
+            "AUTOMOTIVE",
+            "PROTECTIONISM"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "TRADE-DEFICIT PRO C HR-1234 BILL ",
+            "TRADE-RESTRICTIONS PRO C HR-1234 BILL ",
+            "LABOR PRO C HR-1234 BILL"
+        ],
+        "STANCE-AGN": [
+            "FREE-TRADE PRO B HR-1234 BILL ",
+            "CAPITALISM PRO B HR-1234 BILL ",
+            "TRADE-RESTRICTIONS CON C HR-1234 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3041",
+        "REMARKS": [
+            "Bill establishing domestic content requirements for motor vehicles",
+            "sold or distributed in interstate commerce in the U.S.\""
+        ]
+    },
+    {
+        "NAME": "Federal Firearms Law Reform Act",
+        "BNUMBER": "HR-4332",
+        "SYNONYMS": [
+            "RETAIN-GUN-CONTROL"
+        ],
+        "DATE-OF-VOTE": "4 9 1986",
+        "VOTE-TALLY": "'REJECTED 176 248 (LIST 'D 136 110) (LIST 'R 40 138)",
+        "PRES-POS": "AGN",
+        "SESSION": "99-2",
+        "ISSUES": [
+            "GUN-CONTROL"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "GUN-CONTROL PRO B HR-4332 BILL ",
+            "LAW-AND-ORDER PRO B HR-4332 BILL"
+        ],
+        "STANCE-AGN": [
+            "GUN-CONTROL CON B HR-4332 BILL ",
+            "BILL-OF-RIGHTS PRO B HR-4332 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.763",
+        "REMARKS": [
+            "Amendment to continue prohibitions on the sale of handguns.\""
+        ]
+    },
+    {
+        "NAME": "Flag Burning Constitutional Amendment",
+        "BNUMBER": "HJR-350",
+        "SYNONYMS": [
+            "FLAG-BURNING"
+        ],
+        "DATE-OF-VOTE": "6 21 1990",
+        "VOTE-TALLY": "'REJECTED 254 177 (LIST 'TWO-THIRDS 'NEEDED 'FOR 'AMENDMENT) (LIST 'D 95 160 'R 159 17)",
+        "PRES-POS": "FOR",
+        "SESSION": "101-2",
+        "MAJORITY-FACTOR": "2",
+        "ISSUES": [
+            "FLAG-BURNING",
+            "BILL-OF-RIGHTS",
+            "FREE-SPEECH"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "FLAG-BURNING CON C HJR-350 BILL ",
+            "PATRIOTISM PRO C HJR-350 BILL"
+        ],
+        "STANCE-AGN": [
+            "FREE-SPEECH PRO B HJR-350 BILL ",
+            "BILL-OF-RIGHTS PRO A HJR-350 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "7 14 1989",
+        "SYMBOL": "BILL.1059",
+        "REMARKS": [
+            "Constitutional amendment to ban flag burning and flag",
+            "desecration.\""
+        ]
+    },
+    {
+        "NAME": "Flag Desecration",
+        "ENGLISH": "the flag desecration bill",
+        "BNUMBER": "HR-2978",
+        "SYNONYMS": [
+            "FLAG-DESECRATION"
+        ],
+        "DATE-OF-VOTE": "9 12 1989",
+        "VOTE-TALLY": "'PASSED 380 38 (LIST 'R 151 21 'D 229 17)",
+        "PRES-POS": "FOR",
+        "SESSION": "101-1",
+        "ISSUES": [
+            "FLAG-BURNING",
+            "BILL-OF-RIGHTS",
+            "FREE-SPEECH"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "FLAG-BURNING CON B HR-2978 BILL ",
+            "PATRIOTISM PRO B HR-2978 BILL"
+        ],
+        "STANCE-AGN": [
+            "FREE-SPEECH PRO B HR-2978 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "1 29 1990",
+        "SYMBOL": "BILL.155",
+        "REMARKS": [
+            "Bill banning the desecration of the American flag.\""
+        ]
+    },
+    {
+        "NAME": "Food Security Act",
+        "BNUMBER": "HR-2100",
+        "SYNONYMS": [
+            "RPL-TOBAC-SUB"
+        ],
+        "DATE-OF-VOTE": "10 8 1985",
+        "VOTE-TALLY": "'REJECTED 195 230 (LIST 'D 94 154) (LIST 'R 101 76)",
+        "PRES-POS": "FOR",
+        "SESSION": "99-1",
+        "ISSUES": [
+            "TOBACCO-PRICE-SUPPORTS"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "TOBACCO-PRICE-SUPPORTS CON B HR-2100 BILL"
+        ],
+        "STANCE-AGN": [
+            "TOBACCO-PRICE-SUPPORTS PRO B HR-2100 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.760",
+        "REMARKS": [
+            "Amendment to repeal the federal tobacco price support program.\""
+        ]
+    },
+    {
+        "NAME": "Handgun Waiting Period",
+        "BNUMBER": "HR-7",
+        "SYNONYMS": [
+            "BRADY-BILL"
+        ],
+        "DATE-OF-VOTE": "5 8 1991",
+        "VOTE-TALLY": "'PASSED 239 186 (LIST 'R 60 102 'D 179 83)",
+        "PRES-POS": "AGN",
+        "SESSION": "101-1",
+        "IMPORTANCE": "A",
+        "STANCE-FOR": [
+            "GUN-CONTROL PRO B HR-7 BILL"
+        ],
+        "STANCE-AGN": [
+            "GUN-CONTROL CON A HR-7 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 8 1991",
+        "SYMBOL": "BILL.294",
+        "REMARKS": [
+            "Passage of the bill to require a seven-day waiting",
+            "period for handgun purchases, allowing local law",
+            "enforcement authorities to check the background",
+            "of prospective buyers to determine whether they",
+            "have a criminal record.  The waiting period ",
+            "requirement would end when a national computer",
+            "system for instant checks began.\""
+        ]
+    },
+    {
+        "NAME": "Home Health Care",
+        "BNUMBER": "HR-466",
+        "SYNONYMS": [
+            "HOME-HEALTH-CARE"
+        ],
+        "DATE-OF-VOTE": "6 8 1988",
+        "VOTE-TALLY": "'REJECTED 169 243 (LIST 'D 145 99 'R 24 144)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "HEALTH"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "HEALTH PRO B HR-466 BILL ",
+            "ELDERLY PRO B HR-466 BILL"
+        ],
+        "STANCE-AGN": [
+            "SPENDING CON B HR-466 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1643",
+        "REMARKS": [
+            "Rule allowing debate on a proposal to include long-term home health",
+            "care in the federal Medicare insurance program.  Funding would come ",
+            "from increased Medicare payroll taxes on those earning more than",
+            "$45,000 a year.  Rejected, citing need for further scrutiny ",
+            "regarding its impact on the federal budget.\""
+        ]
+    },
+    {
+        "NAME": "Immigration Reform and Control Act",
+        "BNUMBER": "S-1200",
+        "SYNONYMS": [
+            "IMMIG-REFORM"
+        ],
+        "DATE-OF-VOTE": "10 15 1986",
+        "VOTE-TALLY": "'ADOPTED 238 172 (LIST 'D 161 80) (LIST 'R 77 93)",
+        "PRES-POS": "AGN",
+        "SESSION": "99-2",
+        "ISSUES": [
+            "IMMIGRATION-REFORM"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "IMMIGRATION-REFORM PRO B S-1200 BILL"
+        ],
+        "STANCE-AGN": [
+            "IMMIGRATION-REFORM CON B S-1200 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.770",
+        "REMARKS": [
+            "Conference report on bill revising and reforming the ",
+            "Immigration and Nationality Act.\""
+        ]
+    },
+    {
+        "NAME": "Immigration Reform and Control Act of 1983",
+        "BNUMBER": "HR-1510",
+        "SYNONYMS": [
+            "PASS-IMM-REFORM"
+        ],
+        "DATE-OF-VOTE": "6 20 1984",
+        "VOTE-TALLY": "'ADOPTED 216 211 (LIST 'D 124 138 'R 92 73)",
+        "PRES-POS": "FOR",
+        "SESSION": "98-2",
+        "ISSUES": [
+            "IMMIGRATION"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "IMMIGRATION PRO B HR-1510 BILL"
+        ],
+        "STANCE-AGN": [
+            "IMMIGRATION CON B HR-1510 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3046",
+        "REMARKS": [
+            "Bill revising and reforming the Immigration and Nationality Act\""
+        ]
+    },
+    {
+        "NAME": "Immigration Reform and Control Act of 1983",
+        "BNUMBER": "HR-1510a",
+        "SYNONYMS": [
+            "BAR-IMM-AMNESTY"
+        ],
+        "DATE-OF-VOTE": "6 20 1984",
+        "VOTE-TALLY": "'REJECTED 195 233 (LIST 'D 81 182 'R 114 51)",
+        "PRES-POS": "FOR",
+        "SESSION": "98-2",
+        "ISSUES": [
+            "IMMIGRATION"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "IMMIGRATION CON C HR-1510A BILL"
+        ],
+        "STANCE-AGN": [
+            "IMMIGRATION PRO C HR-1510A BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3042",
+        "REMARKS": [
+            "Amendment striking legalization provisions for aliens from bill.\""
+        ]
+    },
+    {
+        "NAME": "Impeachment of Nixon",
+        "BNUMBER": "X1",
+        "SYNONYMS": [
+            "IMPEACHMENT"
+        ],
+        "PRES-POS": "AGN",
+        "ISSUES": [
+            "IMPEACHMENT",
+            "NIXON"
+        ],
+        "IMPORTANCE": "A",
+        "STANCE-FOR": [
+            "HONESTY PRO B X1 BILL ",
+            "INTEGRITY PRO B X1 BILL ",
+            "LAW-AND-ORDER PRO B X1 BILL ",
+            "CONSTITUTION PRO B X1 BILL ",
+            "JUSTICE PRO B X1 BILL"
+        ],
+        "STANCE-AGN": [
+            "PRESIDENT PRO A X1 BILL ",
+            "FAIRNESS PRO B X1 BILL ",
+            "DUE-PROCESS PRO B X1 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "3 31 1989",
+        "SYMBOL": "BILL.1431",
+        "REMARKS": [
+            "Experimental bill: vote on articles of impeachment.\""
+        ]
+    },
+    {
+        "NAME": "Intelligence Authorization Act of Fiscal Year 1983",
+        "BNUMBER": "HR-2760",
+        "SYNONYMS": [
+            "HALT-AID-TO-CONTRAS"
+        ],
+        "DATE-OF-VOTE": "7 28 1983",
+        "VOTE-TALLY": "'ADOPTED 228 195 (LIST 'D 210 49 'R 157 8)",
+        "PRES-POS": "FOR",
+        "SESSION": "98-1",
+        "ISSUES": [
+            "CONTRAS"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "CONTRA-AID CON B HR-2760 BILL"
+        ],
+        "STANCE-AGN": [
+            "CONTRA-AID PRO B HR-2760 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3049",
+        "REMARKS": [
+            "Bill prohibiting U.S. support of military or paramilitary ",
+            "operations in Nicaragua.\""
+        ]
+    },
+    {
+        "NAME": "Intelligence Authorization Act, Fiscal 1987",
+        "BNUMBER": "HR-4759",
+        "SYNONYMS": [
+            "AID-ANGOLA-REB"
+        ],
+        "DATE-OF-VOTE": "9 17 1986",
+        "VOTE-TALLY": "'ADOPTED 229 186 (LIST 'D 63 179) (LIST 'R 166 7)",
+        "PRES-POS": "FOR",
+        "SESSION": "99-2",
+        "ISSUES": [
+            "ANGOLA"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "ANGOLA-REBELS PRO B HR-4759 BILL ",
+            "COMMUNISM PRO B HR-4759 BILL ",
+            "FOREIGN PRO B HR-4759 BILL ",
+            "INTELLIGENCE PRO B HR-4759 BILL"
+        ],
+        "STANCE-AGN": [
+            "ANGOLA-REBELS CON B HR-4759 BILL ",
+            "HUMAN-RIGHTS PRO B HR-4759 BILL ",
+            "PEACE PRO B HR-4759 BILL ",
+            "DIPLOMACY PRO B HR-4759 BILL ",
+            "ISOLATIONISM PRO B HR-4759 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.767",
+        "REMARKS": [
+            "Amendment continuing covert aid to UNITA rebels in Angola.\""
+        ]
+    },
+    {
+        "NAME": "International Security and Development Cooperation Act of 1984",
+        "BNUMBER": "HR-5119",
+        "SYNONYMS": [
+            "INCR-AID-TO-EL-SAL"
+        ],
+        "DATE-OF-VOTE": "5 10 1984",
+        "VOTE-TALLY": "'ADOPTED 212 208 (LIST 'D 218 42 'R 60 107)",
+        "PRES-POS": "AGN",
+        "SESSION": "98-2",
+        "ISSUES": [
+            "EL-SALVADOR",
+            "FOREIGN-AID"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "EL-SALVADOR PRO B HR-5119 BILL"
+        ],
+        "STANCE-AGN": [
+            "EL-SALVADOR CON B HR-5119 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3048",
+        "REMARKS": [
+            "Amendment increasing military and economic aid to El Salvador.\""
+        ]
+    },
+    {
+        "NAME": "Omnibus Drug Bill / Waiting Period for Handgun Purchases",
+        "BNUMBER": "HR-5210",
+        "SYNONYMS": [
+            "HANDGUN-CONTROL"
+        ],
+        "DATE-OF-VOTE": "9 15 1988",
+        "VOTE-TALLY": "'ADOPTED 228 182 (LIST 'D 101 137 'R 127 45)",
+        "PRES-POS": "FOR",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "GUN-CONTROL",
+            "DRUGS"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "GUN-CONTROL CON B HR-5210 BILL ",
+            "DEREGULATION PRO C HR-5210 BILL"
+        ],
+        "STANCE-AGN": [
+            "GUN-CONTROL PRO B HR-5210 BILL ",
+            "CRIME PRO B HR-5210 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1515",
+        "REMARKS": [
+            "McCollum (R-FL) amendment to strike provisions that sought to",
+            "establish a seven-day waiting period for handgun purchases and",
+            "to require the Justice Department to develop and send to Congress",
+            "a proposal for a system gun dealers could use to identify felons,",
+            "who are ineligible to own handguns.  A yes vote was a vote against",
+            "the waiting period.\""
+        ]
+    },
+    {
+        "NAME": "Omnibus Trade Bill",
+        "BNUMBER": "HR-4848",
+        "SYNONYMS": [
+            "OMNIBUS-TRADE"
+        ],
+        "DATE-OF-VOTE": "8 3 1988",
+        "VOTE-TALLY": "'ADOPTED 258 155 (LIST 'D 239 2) (LIST 'R19 153)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "TRADE-RESTRICTIONS",
+            "EXPORTS"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "TRADE-RESTRICTIONS PRO B HR-4848 BILL ",
+            "TRADE-DEFICIT PRO B HR-4848 BILL ",
+            "JOBS PRO B HR-4848 BILL"
+        ],
+        "STANCE-AGN": [
+            "FREE-TRADE PRO B HR-4848 BILL ",
+            "TRADE-DEFICIT PRO B HR-4848 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "4 14 1989",
+        "SYMBOL": "BILL.964",
+        "REMARKS": [
+            "Enforces trade restrictions in response to unfair trade practices.",
+            "Also promotes exports.  Omits provision for plant-closing-notice.\""
+        ]
+    },
+    {
+        "NAME": "Plant Closing Layoff Notice Bill",
+        "BNUMBER": "S-2527",
+        "SYNONYMS": [
+            "PLANT-CLOSING"
+        ],
+        "DATE-OF-VOTE": "7 13 1988",
+        "VOTE-TALLY": "'ADOPTED 286 136 (LIST 'D 232 16) (LIST 'R 54 120)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "PLANT-CLOSING",
+            "LABOR"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "LABOR PRO B S-2527 BILL ",
+            "PLANT-CLOSING PRO B S-2527 BILL ",
+            "FAIRNESS PRO B S-2527 BILL ",
+            "DEREGULATION CON C S-2527 BILL"
+        ],
+        "STANCE-AGN": [
+            "DEREGULATION PRO B S-2527 BILL ",
+            "FREE-ENTERPRISE PRO B S-2527 BILL ",
+            "REAGAN PRO B S-2527 BILL ",
+            "LABOR CON C S-2527 BILL ",
+            "PLANT-CLOSING CON C S-2527 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "4 13 1989",
+        "SYMBOL": "BILL.697",
+        "REMARKS": [
+            "Requires employers of more than 100 workers to give 60 days",
+            "notice of a plant closing or layoff lasting more than 6 months.\""
+        ]
+    },
+    {
+        "NAME": "Resolution Concerning Funding for Nicaragua Democratic Resistance",
+        "BNUMBER": "HJR-540",
+        "SYNONYMS": [
+            "CONTRA-AID"
+        ],
+        "DATE-OF-VOTE": "3 20 1986",
+        "VOTE-TALLY": "'REJECTED 210 222 (LIST 'D 46 206) (LIST 'R 164 16)",
+        "PRES-POS": "FOR",
+        "SESSION": "99-2",
+        "ISSUES": [
+            "CONTRA-AID"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "CONTRA-AID PRO B HJR-540 BILL"
+        ],
+        "STANCE-AGN": [
+            "CONTRA-AID CON B HJR-540 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.764",
+        "REMARKS": [
+            "Joint resolution to approve the President's request for",
+            "$100 million in aid to the Nicaraguan contras and to lift ",
+            "restrictions on CIA and Defense Department involvement.\""
+        ]
+    },
+    {
+        "NAME": "Resolution Concerning a Nuclear Freeze",
+        "BNUMBER": "HJR-13",
+        "SYNONYMS": [
+            "SUPP-NUCLEAR-FREEZE"
+        ],
+        "DATE-OF-VOTE": "5 4 1983",
+        "VOTE-TALLY": "'ADOPTED 278 149 (LIST 'D 218 42 'R 60 107)",
+        "PRES-POS": "AGN",
+        "SESSION": "98-1",
+        "ISSUES": [
+            "NUCLEAR-FREEZE"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "NUCLEAR-FREEZE PRO B HJR-13 BILL ",
+            "ARMS-CONTROL PRO C HJR-13 BILL"
+        ],
+        "STANCE-AGN": [
+            "NUCLEAR-FREEZE CON B HJR-13 BILL ",
+            "DEFENSE PRO B HJR-13 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3050",
+        "REMARKS": [
+            "Resolution calling for a mutual and verifiable freeze on and",
+            "reduction in nuclear weapons.\""
+        ]
+    },
+    {
+        "NAME": "Social Security Amendments of 1983",
+        "BNUMBER": "HR-1900",
+        "SYNONYMS": [
+            "EXTEND-SS-BENEFIT"
+        ],
+        "DATE-OF-VOTE": "3 9 1983",
+        "VOTE-TALLY": "'REJECTED 132 296 (LIST 'D 131 130 'R 1 166)",
+        "PRES-POS": "AGN",
+        "SESSION": "98-1",
+        "ISSUES": [
+            "SOCIAL-SECURITY",
+            "BUDGET-DEFICIT",
+            "SPENDING",
+            "TAXES"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "SOCIAL-SECURITY PRO B HR-1900 BILL ",
+            "TAXES PRO B HR-1900 BILL"
+        ],
+        "STANCE-AGN": [
+            "SOCIAL-SECURITY CON C HR-1900 BILL ",
+            "TAXES CON C HR-1900 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3040",
+        "REMARKS": [
+            "Amendment increasing the Social Security payroll tax at an",
+            "earlier date instead of reducing benefit levels and delaying",
+            "the tax.\""
+        ]
+    },
+    {
+        "NAME": "Space Station",
+        "BNUMBER": "HR-4800",
+        "SYNONYMS": [
+            "SPACE-STATION"
+        ],
+        "DATE-OF-VOTE": "6 22 1988",
+        "VOTE-TALLY": "'REJECTED 166 256 (LIST 'D 126 123 'R 40 133)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "SPACE",
+            "VETERANS",
+            "ELDERLY",
+            "HANDICAPPED",
+            "HOMELESS",
+            "URBAN-DEVELOPMENT"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "ELDERLY PRO C HR-4800 BILL ",
+            "HANDICAPPED PRO C HR-4800 BILL ",
+            "HOMELESSNESS PRO C HR-4800 BILL ",
+            "URBAN-RENEWAL PRO C HR-4800 BILL"
+        ],
+        "STANCE-AGN": [
+            "SPACE PRO B HR-4800 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1512",
+        "REMARKS": [
+            "Proposal to shift $400 million earmarked for a space station to programs",
+            "for veterans, the elderly, the handicapped, the homeless, and urban ",
+            "renewal.\""
+        ]
+    },
+    {
+        "NAME": "Star Wars",
+        "ENGLISH": "reduced Star Wars funding",
+        "BNUMBER": "HR-4264",
+        "SYNONYMS": [
+            "STAR-WARS"
+        ],
+        "DATE-OF-VOTE": "5 4 1988",
+        "VOTE-TALLY": "'APPROVED 223 195 (LIST 'D 197 47 'R 26 148)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "SDI"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "SDI PRO C HR-4264 BILL ",
+            "SPENDING CON C HR-4264 BILL"
+        ],
+        "STANCE-AGN": [
+            "REAGAN PRO B HR-4264 BILL ",
+            "SDI PRO A HR-4264 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1642",
+        "REMARKS": [
+            "Appropriation of $3.5 billion in fiscal 1989 for the Strategic",
+            "Defense Initiative, the proposed space-based defense system.",
+            "As a result, amendments to kill funding for the program, to ",
+            "grant the president's entire request of $4.8 billion, and to",
+            "earmark $4.1 million for SDI were rejected.\""
+        ]
+    },
+    {
+        "NAME": "Tax Rate Equity Act of 1983",
+        "BNUMBER": "HR-1183",
+        "SYNONYMS": [
+            "CAP-TAX-CUT"
+        ],
+        "DATE-OF-VOTE": "6 23 1983",
+        "VOTE-TALLY": "'ADOPTED 229 191 (LIST 'D 229 28 'R 0 163)",
+        "PRES-POS": "AGN",
+        "SESSION": "98-1",
+        "ISSUES": [
+            "TAXES",
+            "FAIRNESS"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "TAXES CON C HR-1183 BILL ",
+            "FAIRNESS PRO B HR-1183 BILL"
+        ],
+        "STANCE-AGN": [
+            "REAGAN PRO C HR-1183 BILL ",
+            "TAX-REFORM PRO B HR-1183 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3039",
+        "REMARKS": [
+            "Limiting to $700 the maximum reduction in individual income",
+            "tax resulting from the third year of the Reagan tax cut.\""
+        ]
+    },
+    {
+        "NAME": "Tax Reform Act of 1986",
+        "BNUMBER": "HR-3838",
+        "SYNONYMS": [
+            "TAX-REFORM"
+        ],
+        "DATE-OF-VOTE": "9 25 1986",
+        "VOTE-TALLY": "'ADOPTED 292 136 (LIST 'D 176 74) (LIST 'R 116 62)",
+        "PRES-POS": "FOR",
+        "SESSION": "99-2",
+        "ISSUES": [
+            "TAX-REFORM"
+        ],
+        "IMPORTANCE": "B",
+        "STANCE-FOR": [
+            "TAX-REFORM PRO B HR-3838 BILL"
+        ],
+        "STANCE-AGN": [
+            "TAX-REFORM CON B HR-3838 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.768",
+        "REMARKS": [
+            "Conference report on bill making extensive changes in the tax system.\""
+        ]
+    },
+    {
+        "NAME": "Textile and Apparel Trade Act / Veto Override",
+        "BNUMBER": "HR-1154",
+        "SYNONYMS": [
+            "LIMIT-IMPORTS"
+        ],
+        "DATE-OF-VOTE": "10 4 1988",
+        "VOTE-TALLY": "'REJECTED 272 152 (LIST 'D 203 47 'R 69 105)",
+        "PRES-POS": "AGN",
+        "SESSION": "100-2",
+        "ISSUES": [
+            "TRADE"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "TRADE-RESTRICTIONS PRO B HR-1154 BILL ",
+            "TEXTILE-INDUSTRY PRO B HR-1154 BILL"
+        ],
+        "STANCE-AGN": [
+            "REAGAN PRO B HR-1154 BILL ",
+            "TRADE-RESTRICTIONS CON B HR-1154 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 29 1989",
+        "SYMBOL": "BILL.1645",
+        "REMARKS": [
+            "Passage, over Reagan's September 28 veto, of the bill",
+            "to limit imports of textiles, apparel, and footwear.",
+            "A two-thirds majority of those present and voting (283 in this",
+            "case) of both houses is required to override a veto.  A nay",
+            "was a vote supporting the president's position.\""
+        ]
+    },
+    {
+        "NAME": "Textile and Apparel Trade Enforcement Act",
+        "BNUMBER": "HR-1562",
+        "SYNONYMS": [
+            "LIMIT-TEXT-IMP",
+            "LIMIT-TEX-IMP",
+            "LMT-TEXT-IMP"
+        ],
+        "DATE-OF-VOTE": "8 8 1986",
+        "VOTE-TALLY": "'FAILED 276 149 (LIST 'VETO 'OVERRIDE 'NEEDS 'TWO-THIRDS) (LIST 'D 205 43) (LIST 'R 71 106)",
+        "PRES-POS": "AGN",
+        "SESSION": "99-2",
+        "MAJORITY-FACTOR": "2",
+        "ISSUES": [
+            "TRADE-RESTRICTIONS"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "TRADE-RESTRICTIONS PRO B HR-1562 BILL ",
+            "TEXTILE-INDUSTRY PRO B HR-1562 BILL"
+        ],
+        "STANCE-AGN": [
+            "TRADE-RESTRICTIONS CON B HR-1562 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "BILL.765",
+        "REMARKS": [
+            "Attempt to override veto of bill restricting textile and ",
+            "apparel imports.\""
+        ]
+    },
+    {
+        "NAME": "Treasury, Postal Service and General Government Appropriations Act, 1984",
+        "BNUMBER": "HR-3191",
+        "SYNONYMS": [
+            "LIMIT-ABORTIONS"
+        ],
+        "DATE-OF-VOTE": "6 8 1983",
+        "VOTE-TALLY": "'ADOPTED 226 182 (LIST 'D 97 149 'R 129 33)",
+        "PRES-POS": "FOR",
+        "SESSION": "98-1",
+        "ISSUES": [
+            "ABORTION"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "ABORTION CON B HR-3191 BILL"
+        ],
+        "STANCE-AGN": [
+            "ABORTION PRO B HR-3191 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "BILL.3044",
+        "REMARKS": [
+            "Amendment prohibiting use of health benefit funds to pay for",
+            "abortions unless the life of the mother is endangered.\""
+        ]
+    },
+    {
+        "NAME": "Water Quality Renewal Act",
+        "BNUMBER": "HR-8",
+        "SYNONYMS": [
+            "LMT-CLN-WATER-ACT"
+        ],
+        "DATE-OF-VOTE": "7 23 1985",
+        "VOTE-TALLY": "'REJECTED 207 219 (LIST 'D 68 177) (LIST 'R 139 42)",
+        "PRES-POS": "FOR",
+        "SESSION": "99-1",
+        "ISSUES": [
+            "CLEAN-WATER"
+        ],
+        "IMPORTANCE": "C",
+        "STANCE-FOR": [
+            "DEREGULATION PRO B HR-8 BILL ",
+            "FREE-MARKET PRO C HR-8 BILL"
+        ],
+        "STANCE-AGN": [
+            "CLEAN-WATER PRO B HR-8 BILL ",
+            "CLEAN-AIR PRO B HR-8 BILL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 31 1988",
+        "SYMBOL": "BILL.3468",
+        "REMARKS": [
+            "Amendment to freeze funding for the Clean Air Act through 1990."
+        ]
+    }
+]

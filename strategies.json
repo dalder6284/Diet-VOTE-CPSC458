@@ -1,0 +1,453 @@
+[
+    {
+        "NAME": "Popular decision",
+        "SYNONYMS": [
+            "POPULAR"
+        ],
+        "QUOTE": [
+            "I just try to vote my district.",
+            "I was sent to Washington to represent the way people back home feel.",
+            "This is what the vast majority want.",
+            "I owe it to my constiuents if they feel that strongly about it. [Delegate stance]\""
+        ],
+        "RANK": "A",
+        "TEST": [
+            "All stances are on one side of the bill.  There is either no opposition",
+            "or no support for the given measure.  This vote is a clear case.\""
+        ],
+        "TEST-CODE": "STRAT-POPULAR",
+        "PREAMBLE": "PREAMBLE-POPULAR",
+        "PROTOCOL": "PROTOCOL-POPULAR",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.2683",
+        "REMARKS": [
+            "Vote is consistent with all constituencies.\""
+        ]
+    }, {
+        "NAME": "Non-partisan decision",
+        "SYNONYMS": [
+            "NON-PARTISAN"
+        ],
+        "QUOTE": [
+            "Sometimes party loyalty demands too much. (JFK)\""
+        ],
+        "RANK": "B",
+        "TEST": [
+            "The member's own beliefs are in conflict with the party position on the bill.",
+            "The most important credo stance is an A, and the member's political party",
+            "has a stance supporting the opposing side.\""
+        ],
+        "TEST-CODE": "STRAT-NON-PARTISAN",
+        "PREAMBLE": "PREAMBLE-NON-PARTISAN",
+        "PROTOCOL": "PROTOCOL-NON-PARTISAN",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3154",
+        "REMARKS": [
+            "Vote of conscience or credo that violates party line.  Not a district vote.\""
+        ]
+    }, {
+        "NAME": "Not constitutional",
+        "SYNONYMS": [
+            "NOT-CONSTITUTIONAL"
+        ],
+        "RANK": "B",
+        "TEST": [
+            "There is a consensus opposing the measure.  One issue among the",
+            "opposing stances is the Constitution.\""
+        ],
+        "TEST-CODE": "STRAT-NOT-CONSTITUTIONAL",
+        "PREAMBLE": "PREAMBLE-NOT-CONSTITUTIONAL",
+        "PROTOCOL": "PROTOCOL-NOT-CONSTITUTIONAL",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 24 1989",
+        "SYMBOL": "STRATEGY.1344",
+        "REMARKS": [
+            "Vote against a measure that would be struck down by ",
+            "the Supreme Court.\""
+        ]
+    }, {
+        "NAME": "Unimportant Bill",
+        "SYNONYMS": [
+            "UNIMPORTANT-BILL"
+        ],
+        "QUOTE": [
+            "... some things that are close calls are not treated",
+            "as close calls because they're not important enough.  I mean",
+            "its very different if there's enough riding -- either substantively",
+            "or politically -- on a vote.  You might have exactly the same",
+            "tensions among the various priorities if you were to pull ",
+            "this up, but it might be about how you spend $100,000 and you",
+            "say, who cares.\""
+        ],
+        "RANK": "B",
+        "TEST": [
+            "There is a consensus on the bill.  The importance level of the bill is C.\""
+        ],
+        "TEST-CODE": "STRAT-UNIMPORTANT-BILL",
+        "PREAMBLE": "PREAMBLE-UNIMPORTANT-BILL",
+        "PROTOCOL": "PROTOCOL-UNIMPORTANT-BILL",
+        "STATUS": "Active",
+        "DATE-OPEN": "5 22 1989",
+        "SYMBOL": "STRATEGY.681",
+        "REMARKS": [
+            "Not much riding on this bill.\""
+        ]
+    }, {
+        "NAME": "Simple consensus",
+        "SYNONYMS": [
+            "SIMPLE-CONSENSUS"
+        ],
+        "RANK": "C",
+        "TEST": [
+            "There is a consensus of opinion on the issues.  That is, all the ",
+            "most important stances fall on one side of the bill.\""
+        ],
+        "TEST-CODE": "STRAT-SIMPLE-CONSENSUS",
+        "PREAMBLE": "PREAMBLE-SIMPLE-CONSENSUS",
+        "PROTOCOL": "PROTOCOL-SIMPLE-CONSENSUS",
+        "STATUS": "Active",
+        "DATE-OPEN": "5 11 1989",
+        "SYMBOL": "STRATEGY.1018",
+        "REMARKS": [
+            "The most important issues/groups/norms etc. concur.\""
+        ]
+    }, {
+        "NAME": "Minimize adverse effects",
+        "SYNONYMS": [
+            "MINIMIZE-ADVERSE-EFFECTS"
+        ],
+        "QUOTE": [
+            "Nothing's perfect.  You have to break a few eggs to make",
+            "omelets.\""
+        ],
+        "RANK": "C",
+        "TEST": [
+            "There is a majority opinion.  The importance level of the stances",
+            "in support of the majority is greater than the importance level of",
+            "the other side.\""
+        ],
+        "TEST-CODE": "STRAT-MINIMIZE-ADVERSE-EFFECTS",
+        "PREAMBLE": "PREAMBLE-MINIMIZE-ADVERSE-EFFECTS",
+        "PROTOCOL": "PROTOCOL-MINIMIZE-ADVERSE-EFFECTS",
+        "STATUS": "Active",
+        "DATE-OPEN": "5 3 1989",
+        "SYMBOL": "STRATEGY.1423",
+        "REMARKS": [
+            "Adverse effects are less important than the benefits of the vote.\""
+        ]
+    }, {
+        "NAME": "Partisan Decision",
+        "SYNONYMS": [
+            "PARTISAN"
+        ],
+        "QUOTE": [
+            "I could not let those rich Republicans tear this country apart.",
+            "I am not going to let those Democrats have their special interests tell",
+            "  me what to do.\""
+        ],
+        "RANK": "C",
+        "TEST": [
+            "There is a majority opinion on the bill.  The member's political opponents",
+            "favor the opposite result.  The most important majority stance is less",
+            "important than the most important opposition stance.  Thus, the member",
+            "is voting to deny something wanted by the opposition.",
+            "In this case, the opposition is any group with which the member has a CON relationship.\""
+        ],
+        "TEST-CODE": "STRAT-PARTISAN",
+        "PREAMBLE": "PREAMBLE-PARTISAN",
+        "PROTOCOL": "PROTOCOL-PARTISAN",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3153",
+        "REMARKS": [
+            "Counter-planning vote against the opposing interests.\""
+        ]
+    }, {
+        "NAME": "Best for the country",
+        "SYNONYMS": [
+            "BEST-FOR-THE-COUNTRY"
+        ],
+        "QUOTE": [
+            "The needs of the country, in this case, must come first.\""
+        ],
+        "RANK": "C",
+        "TEST": [
+            "There is a consensus opinion on the bill.  The consensus result ",
+            "contains stances reflecting the country's broad issue agenda.\""
+        ],
+        "TEST-CODE": "STRAT-BEST-FOR-COUNTRY",
+        "PREAMBLE": "PREAMBLE-BEST-FOR-THE-COUNTRY",
+        "PROTOCOL": "PROTOCOL-BEST-FOR-THE-COUNTRY",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3152",
+        "REMARKS": [
+            "Take the broad view, over parochial interests.\""
+        ]
+    }, {
+        "NAME": "Shifting alliances",
+        "SYNONYMS": [
+            "SHIFTING-ALLIANCES"
+        ],
+        "QUOTE": [
+            "I am voting with my good friends in ().  I am sorry to disappoint",
+            "my many supporters in ().  They know that I have fought many fights",
+            "with them.\""
+        ],
+        "RANK": "C",
+        "TEST": [
+            "The member has no credo stance on this bill.",
+            "There are constituencies on opposite sides of the issues.",
+            "One of the constituencies is in conflict with the member on another",
+            "issue, or one of the constituencies is in agreement with the member",
+            "on another issue.  Then, the member sides with the constituency that",
+            "is ideologically closer.",
+            "The member lowers the importance of the other relationship.\""
+        ],
+        "TEST-CODE": "STRAT-SHIFTING-ALLIANCES",
+        "PREAMBLE": "PREAMBLE-SHIFTING-ALLIANCES",
+        "PROTOCOL": "PROTOCOL-SHIFTING-ALLIANCES",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3283",
+        "REMARKS": [
+            "Conflict resolution through changing relations.",
+            "When two constituencies are in conflict, try to see if one is more",
+            "valuable or compatible than the other.  If so, shift their relative",
+            "importance by either lowering one or raising the other.\""
+        ]
+    }, {
+        "NAME": "Inconsistent constituency",
+        "SYNONYMS": [
+            "INCONSISTENT-CONSTITUENCY"
+        ],
+        "RANK": "C",
+        "TEST": [
+            "The same group has positions on both sides of the same bill and there",
+            "is a consensus of opinion on one side of the bill.\""
+        ],
+        "TEST-CODE": "STRAT-INCONSISTENT-CONSTITUENCY",
+        "PREAMBLE": "PREAMBLE-INCONSISTENT-CONSTITUENCY",
+        "PROTOCOL": "PROTOCOL-INCONSISTENT-CONSTITUENCY",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 28 1989",
+        "SYMBOL": "STRATEGY.1291",
+        "REMARKS": [
+            "Bill has aspects that provide conflict within a given",
+            "constituency.  Member can make decision on other grounds and",
+            "couch explanation in terms of favorable aspects of decision.\""
+        ]
+    }, {
+        "NAME": "Not good enough",
+        "SYNONYMS": [
+            "NOT-GOOD-ENOUGH"
+        ],
+        "QUOTE": [
+            "I would have voted for a stronger bill.",
+            "This measure is a fraud.  It has no teeth in it.\""
+        ],
+        "RANK": "C",
+        "TEST": [
+            "There is a majority opinion in favor of the bill.  However, the importance of",
+            "the most important stance favoring the bill is greater than the most ",
+            "important consequence of the bill.\""
+        ],
+        "TEST-CODE": "STRAT-NOT-GOOD-ENOUGH",
+        "PREAMBLE": "PREAMBLE-NOT-GOOD-ENOUGH",
+        "PROTOCOL": "PROTOCOL-NOT-GOOD-ENOUGH",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.2588",
+        "REMARKS": [
+            "Bill importance is less than my own stances would call for.",
+            "For example, personal stance of A, bill importance of C.\""
+        ]
+    }, {
+        "NAME": "Balance the books",
+        "SYNONYMS": [
+            "BALANCE-THE-BOOKS"
+        ],
+        "QUOTE": [
+            "I know you are upset with this vote, but I have always been there in the",
+            "  past, and I shall be there in the future.",
+            "I will make it up to you.",
+            "(point to specific past votes)\""
+        ],
+        "RANK": "C",
+        "TEST": [
+            "There is a majority opinion on this bill.  The member's record",
+            "has positions that fall on both sides of the bill.\""
+        ],
+        "TEST-CODE": "STRAT-BALANCE-THE-BOOKS",
+        "PREAMBLE": "PREAMBLE-BALANCE-THE-BOOKS",
+        "PROTOCOL": "PROTOCOL-BALANCE-THE-BOOKS",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.2684",
+        "REMARKS": [
+            "Offset current vote with past or future votes.\""
+        ]
+    }, {
+        "NAME": "Simple Majority",
+        "SYNONYMS": [
+            "SIMPLE-MAJORITY",
+            "MAJORITY"
+        ],
+        "RANK": "D",
+        "TEST": [
+            "There is a majority of opinion on one side of the bill.  The greater",
+            "number of stances constitutes a majority.\""
+        ],
+        "TEST-CODE": "STRAT-SIMPLE-MAJORITY",
+        "PREAMBLE": "PREAMBLE-SIMPLE-MAJORITY",
+        "PROTOCOL": "PROTOCOL-SIMPLE-MAJORITY",
+        "STATUS": "Active",
+        "DATE-OPEN": "2 15 1990",
+        "SYMBOL": "STRATEGY.274",
+        "REMARKS": [
+            "More stances on one side than another.\""
+        ]
+    }, {
+        "NAME": "Normative decision",
+        "SYNONYMS": [
+            "NORMATIVE"
+        ],
+        "RANK": "D",
+        "TEST": [
+            "The normative issue stances all fall on one side of the bill.\""
+        ],
+        "TEST-CODE": "STRAT-NORMATIVE",
+        "PREAMBLE": "PREAMBLE-NORMATIVE",
+        "PROTOCOL": "PROTOCOL-NORMATIVE",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 23 1989",
+        "SYMBOL": "STRATEGY.7685",
+        "REMARKS": [
+            "Decision reflects normative opinion on relevant issues.\""
+        ]
+    }, {
+        "NAME": "Deeper analysis",
+        "SYNONYMS": [
+            "DEEPER-ANALYSIS"
+        ],
+        "RANK": "E",
+        "TEST": [
+            "This is a meta-strategy.  First expand the bill stances through ",
+            "inference, then run through the preceding decision strategies again.",
+            "If that fails, then try a deeper level of inference.  Inferencing is",
+            "triggered by the level of importance of the stances.  Process stops",
+            "at the D level.\""
+        ],
+        "TEST-CODE": "STRAT-DEEPER-ANALYSIS",
+        "STATUS": "Active",
+        "DATE-OPEN": "2 11 1990",
+        "SYMBOL": "STRATEGY.323",
+        "REMARKS": [
+            "Consider the symbolic implication of the for/agn stances of the bill.\""
+        ]
+    }, {
+        "NAME": "No decision",
+        "SYNONYMS": [
+            "NO-DECISION"
+        ],
+        "RANK": "F",
+        "TEST": [
+            "Always true.  If you have gotten this far, then there is no decision",
+            "strategy that is effective for this bill.\""
+        ],
+        "TEST-CODE": "STRAT-NO-DECISION",
+        "PROTOCOL": "PROTOCOL-NO-DECISION",
+        "NO-SECOND-TRY": "T",
+        "STATUS": "Active",
+        "DATE-OPEN": "8 22 1989",
+        "SYMBOL": "STRATEGY.1113",
+        "REMARKS": [
+            "No previous decision was triggered.\""
+        ]
+    }, {
+        "NAME": "Mixed constituency",
+        "SYNONYMS": [
+            "MIXED-CONSTITUENCY"
+        ],
+        "RANK": "X",
+        "TEST": [
+            "District must be divided and there should be symmetry on stances.\""
+        ],
+        "PREAMBLE": "PREAMBLE-MIXED-CONSTITUENCY",
+        "PROTOCOL": "PROTOCOL-MIXED-CONSTITUENCY",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3156",
+        "REMARKS": [
+            "E.g., rural/urban. can justify pro-rural vote to urbans by ",
+            "pointing to other constituency, and vice-versa.\""
+        ]
+    }, {
+        "NAME": "Inoculation",
+        "SYNONYMS": [
+            "INOCULATION"
+        ],
+        "RANK": "X",
+        "TEST": [
+            "Low priority stances, pro or con.\""
+        ],
+        "TEST-CODE": "STRAT-INOCULATION",
+        "PREAMBLE": "PREAMBLE-INOCULATION",
+        "PROTOCOL": "PROTOCOL-INOCULATION",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3155",
+        "REMARKS": [
+            "Decision which may prove to be unpopular later on.",
+            "Need to begin laying groundwork for defense early on.\""
+        ]
+    }, {
+        "NAME": "It couldn't pass",
+        "SYNONYMS": [
+            "IT-COULD-NOT-PASS"
+        ],
+        "QUOTE": [
+            "Why waste a vote on a measure that has so little chance of passing.\""
+        ],
+        "RANK": "X",
+        "TEST": [
+            "Bill has far higher importance (and low likelihood of passage)",
+            "but for issue stance consistent (but stronger than) with my own.",
+            "This is the flip side of not-good-enough.\""
+        ],
+        "TEST-CODE": "STRAT-COULD-NOT-PASS",
+        "PREAMBLE": "PREAMBLE-IT-COULD-NOT-PASS",
+        "PROTOCOL": "PROTOCOL-IT-COULD-NOT-PASS",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3157",
+        "REMARKS": [
+            "Do not waste a vote on a symbolic measure.  Better to",
+            "build credibility and a consensus for the future.\""
+        ]
+    }, {
+        "NAME": "Change of heart",
+        "SYNONYMS": [
+            "CHANGE-OF-HEART"
+        ],
+        "QUOTE": [
+            "A foolish consistency is the hobgoblin of small minds.\""
+        ],
+        "RANK": "X",
+        "TEST": [
+            "Credo importance is less than conflicting relation importance.\""
+        ],
+        "TEST-CODE": "STRAT-CHANGE-OF-HEART",
+        "PREAMBLE": "PREAMBLE-CHANGE-OF-HEART",
+        "PROTOCOL": "PROTOCOL-CHANGE-OF-HEART",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "STRATEGY.3284",
+        "REMARKS": [
+            "Reverse a credo/vote position on the record to accomodate ",
+            "conflict in constituencies.\""
+        ]
+    }
+]

@@ -1,0 +1,2697 @@
+[
+    {
+        "NAME": "AFL-CIO",
+        "ENGLISH": "the AFL-CIO",
+        "CON-ENGLISH": "the AFL-CIO labor bosses",
+        "SYNONYMS": [
+            "AFLCIO"
+        ],
+        "ISA": [
+            "UNION"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2997"
+    },
+    {
+        "NAME": "Aerospace Industry",
+        "STANCES": [
+            "DEFENSE PRO B AEROSPACE GROUP"
+        ],
+        "ENGLISH": "the aerospace industry",
+        "SYNONYMS": [
+            "AEROSPACE"
+        ],
+        "NORM": "AEROSPACE PRO C GROUP.2429 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2429"
+    },
+    {
+        "NAME": "Agriculture Industry",
+        "STANCES": [
+            "FARM PRO B AGRICULTURE GROUP"
+        ],
+        "ENGLISH": "the agriculture industry",
+        "ENGLISH-SHORT": "agriculture",
+        "SYNONYMS": [
+            "AGRICULTURE"
+        ],
+        "NORM": "AGRICULTURE PRO C GROUP.2419 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2419"
+    },
+    {
+        "NAME": "Airline Industry",
+        "ISSUES": [
+            "DEREGULATION"
+        ],
+        "STANCES": [
+            "DEREGULATION PRO B AIRLINES GROUP"
+        ],
+        "ENGLISH": "the airline industry",
+        "SYNONYMS": [
+            "AIRLINES"
+        ],
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2430"
+    },
+    {
+        "NAME": "American Civil Liberties Union",
+        "ISSUES": [
+            "CIVIL-LIBERTIES",
+            "CONSTITUTION"
+        ],
+        "STANCES": [
+            "CIVIL-LIBERTIES PRO B ACLU GROUP",
+            "PRIVACY PRO B ACLU GROUP",
+            "LEGAL-SERVICES PRO C ACLU GROUP",
+            "VOTING-RIGHTS PRO C ACLU GROUP",
+            "PRAYER CON C ACLU GROUP",
+            "CONSTITUTION PRO A ACLU GROUP"
+        ],
+        "ENGLISH": "the American Civil Liberties Union",
+        "ENGLISH-SHORT": "the ACLU",
+        "PRO-ENGLISH": "the ACLU's strong defense of the Bill of Rights",
+        "CON-ENGLISH": "the ACLU's radical and subversive posture",
+        "SYNONYMS": [
+            "ACLU"
+        ],
+        "NORM": "ACLU CON C GROUP.1913 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.1913"
+    },
+    {
+        "NAME": "American Conservative Union",
+        "ISSUES": [
+            "FOREIGN",
+            "SOCIAL",
+            "DEFICIT"
+        ],
+        "STANCES": [
+            "CONTRA-AID PRO B ACU GROUP",
+            "DEFENSE PRO B ACU GROUP",
+            "BALANCED-BUDGET PRO B ACU GROUP",
+            "BORK PRO B ACU GROUP",
+            "ERA CON B ACU GROUP",
+            "GUN-CONTROL CON B ACU GROUP",
+            "LABOR CON C ACU GROUP",
+            "MANION PRO B ACU GROUP",
+            "PLANT-CLOSING CON B ACU GROUP",
+            "BUSSING CON B ACU GROUP",
+            "SOCIAL CON B ACU GROUP",
+            "SDI PRO B ACU GROUP",
+            "VOTING-RIGHTS CON B ACU GROUP",
+            "WOMENS-RIGHTS CON B ACU GROUP"
+        ],
+        "ENGLISH": "the American Conservative Union",
+        "ENGLISH-SHORT": "the ACU",
+        "PRO-ENGLISH": "the ACU's conservative ideology",
+        "CON-ENGLISH": "the ACU's right-wing reactionism",
+        "SYNONYMS": [
+            "ACU"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3057"
+    },
+    {
+        "NAME": "American Legion",
+        "STANCES": [
+            "DEFENSE PRO B AMERICAN-LEGION GROUP",
+            "VETERANS PRO B AMERICAN-LEGION GROUP"
+        ],
+        "ENGLISH": "the American Legion",
+        "SYNONYMS": [
+            "AMERICAN-LEGION"
+        ],
+        "NORM": "AMERICAN-LEGION PRO C GROUP.3000 GROUP",
+        "ISA": [
+            "VETERANS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.3000"
+    },
+    {
+        "NAME": "Americans for Constitutional Action",
+        "STANCES": [
+            "MX-MISSILE PRO C ACA GROUP",
+            "BALANCED-BUDGET PRO C ACA GROUP",
+            "BUSSING CON C ACA GROUP",
+            "NUCLEAR-FREEZE CON C ACA GROUP"
+        ],
+        "ENGLISH": "the Americans for Constitutional Action",
+        "ENGLISH-SHORT": "the ACA",
+        "SYNONYMS": [
+            "ACA"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "GROUP.3062"
+    },
+    {
+        "NAME": "Americans for Democratic Action",
+        "ISSUES": [
+            "EQUALITY",
+            "DEFENSE-SPENDING",
+            "CIVIL-LIBERTIES",
+            "HUMAN-RIGHTS"
+        ],
+        "STANCES": [
+            "CONTRA-AID CON B ADA GROUP",
+            "APARTHEID CON B ADA GROUP",
+            "ARMS-CONTROL PRO B ADA GROUP",
+            "SOCIAL PRO B ADA GROUP",
+            "BORK CON B ADA GROUP",
+            "CAPITAL-PUNISHMENT CON B ADA GROUP",
+            "CIVIL-RIGHTS PRO B ADA GROUP",
+            "CONSTRUCTIVE-ENGAGEMENT CON B ADA GROUP",
+            "CREATIONISM CON B ADA GROUP",
+            "ERA PRO B ADA GROUP",
+            "GUN-CONTROL PRO A ADA GROUP",
+            "HOUSING PRO B ADA GROUP",
+            "HUMAN-RIGHTS PRO B ADA GROUP",
+            "LABOR PRO B ADA GROUP",
+            "MANION CON B ADA GROUP",
+            "NUCLEAR-FREEZE PRO B ADA GROUP",
+            "OPEN-HOUSING PRO B ADA GROUP",
+            "RACISM CON B ADA GROUP",
+            "BUSSING PRO B ADA GROUP",
+            "SDI CON B ADA GROUP",
+            "URBAN PRO B ADA GROUP",
+            "VOTING-RIGHTS PRO B ADA GROUP",
+            "WEAPONS CON B ADA GROUP",
+            "WOMENS-RIGHTS PRO B ADA GROUP",
+            "ABORTION PRO C ADA GROUP",
+            "BALANCED-BUDGET CON C ADA GROUP",
+            "MX CON C ADA GROUP",
+            "B-1 CON C ADA GROUP",
+            "FOOD-STAMPS PRO B ADA GROUP",
+            "CLINCH-RIVER CON B ADA GROUP"
+        ],
+        "ENGLISH": "the Americans for Democratic Action",
+        "ENGLISH-SHORT": "the ADA",
+        "PRO-ENGLISH": "the ADA as a proponent of basic American values",
+        "CON-ENGLISH": "the left-wing pinko ADA",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "ADA"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3053"
+    },
+    {
+        "NAME": "Amnesty International",
+        "ENGLISH": "Amnesty International",
+        "SYNONYMS": [
+            "AMNESTY-INTERNATIONAL"
+        ],
+        "NORM": "AMNESTY-INTERNATIONAL PRO B GROUP.2579 GROUP",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "GROUP.2579"
+    },
+    {
+        "NAME": "Asians",
+        "ISSUES": [
+            "CIVIL-RIGHTS"
+        ],
+        "STANCES": [
+            "CIVIL-RIGHTS PRO B ASIANS GROUP"
+        ],
+        "ENGLISH": "Asian-Americans",
+        "ENGLISH-SHORT": "Asians",
+        "NUMBER": "PLUR",
+        "NORM": "ASIANS PRO C GROUP.169 GROUP",
+        "ISA": [
+            "ETHNIC"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.169"
+    },
+    {
+        "NAME": "Automotive Industry",
+        "ISSUES": [
+            "TRADE"
+        ],
+        "STANCES": [
+            "TRADE-RESTRICTIONS PRO B CARS GROUP",
+            "AIR-POLLUTION-CONTROL CON C CARS GROUP"
+        ],
+        "ENGLISH": "the automobile industry",
+        "SYNONYMS": [
+            "CARS",
+            "AUTOMOBILE",
+            "AUTOMOTIVE",
+            "AUTO"
+        ],
+        "NORM": "CARS PRO C GROUP.2424 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2424"
+    },
+    {
+        "NAME": "Banking",
+        "STANCES": [
+            "DEREGULATION PRO B BANKING GROUP"
+        ],
+        "ENGLISH": "the banking industry",
+        "ENGLISH-SHORT": "banking",
+        "PRO-ENGLISH": "the common sense financial position of bankers",
+        "CON-ENGLISH": "the banking community's narrow financial interest",
+        "SYNONYMS": [
+            "BANKERS"
+        ],
+        "NORM": "BANKING CON C GROUP.2408 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2408"
+    },
+    {
+        "NAME": "Blacks",
+        "ISSUES": [
+            "RACISM",
+            "SOUTH-AFRICA",
+            "CIVIL-RIGHTS"
+        ],
+        "STANCES": [
+            "RACISM CON B BLACKS GROUP",
+            "APARTHEID CON B BLACKS GROUP",
+            "CIVIL-RIGHTS PRO B BLACKS GROUP",
+            "HOUSING PRO B BLACKS GROUP",
+            "VOTING-RIGHTS PRO B BLACKS GROUP",
+            "AFFIRMATIVE-ACTION PRO B BLACKS GROUP",
+            "DESEGREGATION PRO B BLACKS GROUP",
+            "BUSSING PRO B BLACKS GROUP"
+        ],
+        "ENGLISH": "black Americans",
+        "ENGLISH-SHORT": "blacks",
+        "PRO-ENGLISH": "the legitimate concerns of black Americans",
+        "CON-ENGLISH": "the narrow special interests of blacks",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "ETHNIC"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.166"
+    },
+    {
+        "NAME": "Business",
+        "ISSUES": [
+            "TAXES"
+        ],
+        "STANCES": [
+            "TAXES CON B BUSINESS GROUP",
+            "DEREGULATION PRO B BUSINESS GROUP",
+            "SPENDING CON B BUSINESS GROUP",
+            "BALANCED-BUDGET PRO B BUSINESS GROUP",
+            "PLANT-CLOSING CON B BUSINESS GROUP",
+            "LABOR CON B BUSINESS GROUP"
+        ],
+        "ENGLISH": "the business community",
+        "ENGLISH-SHORT": "business",
+        "PRO-ENGLISH": "the progressive outlook of business",
+        "CON-ENGLISH": "the narrow selfishness of the business community",
+        "SYNONYMS": [
+            "INDUSTRY",
+            "COMPANIES"
+        ],
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.159"
+    },
+    {
+        "NAME": "Catholics",
+        "ISSUES": [
+            "ABORTION",
+            "BIRTH-CONTROL"
+        ],
+        "STANCES": [
+            "ABORTION CON B CATHOLICS GROUP",
+            "BIRTH-CONTROL CON B CATHOLICS GROUP"
+        ],
+        "ENGLISH": "Catholics",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "CHRISTIANS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.171"
+    },
+    {
+        "NAME": "Central Intelligence Agency",
+        "ENGLISH": "the Central Intelligence Agency",
+        "ENGLISH-SHORT": "the CIA",
+        "PRO-ENGLISH": "the strong and capable CIA",
+        "CON-ENGLISH": "the clandestine and amoral CIA",
+        "SYNONYMS": [
+            "CIA"
+        ],
+        "NORM": "CIA CON C GROUP.3135 GROUP",
+        "ISA": [
+            "US-AGENCY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3135"
+    },
+    {
+        "NAME": "Chamber of Commerce of the United States",
+        "ISSUES": [
+            "ECONOMY"
+        ],
+        "STANCES": [
+            "TAXES CON B COC GROUP",
+            "DEREGULATION PRO B COC GROUP",
+            "SPENDING CON B COC GROUP",
+            "BALANCED-BUDGET PRO B COC GROUP",
+            "PLANT-CLOSING CON B COC GROUP",
+            "LABOR CON B COC GROUP",
+            "CLINCH-RIVER PRO B COC GROUP"
+        ],
+        "ENGLISH": "the US Chamber of Commerce",
+        "ENGLISH-SHORT": "the Chamber of Commerce",
+        "PRO-ENGLISH": "the stabilizing influence of the Chamber of Commerce",
+        "CON-ENGLISH": "the narrow special interest of the Chamber of Commerce",
+        "SYNONYMS": [
+            "COC"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3060"
+    },
+    {
+        "NAME": "Christians",
+        "STANCES": [
+            "PRAYER PRO B CHRISTIANS GROUP"
+        ],
+        "ENGLISH": "christians",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "RELIGION"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.1600"
+    },
+    {
+        "NAME": "Cigar Association of America",
+        "ISSUES": [
+            "SMOKING-BAN",
+            "SMOKING-WARNINGS"
+        ],
+        "ENGLISH": "the Cigar Association of America",
+        "ENGLISH-SHORT": "the Cigar Association",
+        "SYNONYMS": [
+            "CIGAR-ASSOCIATION"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 25 1988",
+        "SYMBOL": "GROUP.869"
+    },
+    {
+        "NAME": "Coal Industry",
+        "ENGLISH": "the coal industry",
+        "SYNONYMS": [
+            "COAL"
+        ],
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 25 1988",
+        "SYMBOL": "GROUP.867"
+    },
+    {
+        "NAME": "Committee on Political Education of the AFL-CIO",
+        "ISSUES": [
+            "LABOR"
+        ],
+        "STANCES": [
+            "LABOR PRO B COPE GROUP",
+            "PLANT-CLOSING PRO B COPE GROUP",
+            "CHILD-CARE PRO B COPE GROUP",
+            "SPENDING PRO B COPE GROUP",
+            "BORK CON B COPE GROUP",
+            "SOCIAL PRO B COPE GROUP",
+            "TRADE-RESTRICTIONS PRO B COPE GROUP",
+            "VOTING-RIGHTS PRO C COPE GROUP",
+            "BALANCED-BUDGET CON C COPE GROUP",
+            "FOOD-STAMPS PRO B COPE GROUP"
+        ],
+        "ENGLISH": "the Committee on Political Education of the AFL-CIO",
+        "ENGLISH-SHORT": "COPE",
+        "PRO-ENGLISH": "the progressive agenda of COPE",
+        "CON-ENGLISH": "the COPE special interest agenda",
+        "SYNONYMS": [
+            "COPE"
+        ],
+        "NORM": "COPE CON C GROUP.3054 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3054"
+    },
+    {
+        "NAME": "Common Cause",
+        "ISSUES": [
+            "ELECTION-REFORM"
+        ],
+        "STANCES": [
+            "ELECTION-REFORM PRO B COMMON-CAUSE GROUP"
+        ],
+        "ENGLISH": "Common Cause",
+        "SYNONYMS": [
+            "COMMON-CAUSE"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.1912"
+    },
+    {
+        "NAME": "Communist Party",
+        "STANCES": [
+            "COMMUNISM CON B COMMUNISTS GROUP"
+        ],
+        "ENGLISH": "the Communist Party",
+        "SYNONYMS": [
+            "COMMUNISTS"
+        ],
+        "NORM": "COMMUNISTS CON B GROUP.3001 GROUP",
+        "ISA": [
+            "PARTY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.3001"
+    },
+    {
+        "NAME": "Competitive Enterprise Institute",
+        "ISSUES": [
+            "FREE-ENTERPRISE",
+            "DEREGULATION",
+            "PRIVATIZATION",
+            "FREE-MARKET",
+            "ANTI-TRUST-REFORM",
+            "TRADE"
+        ],
+        "STANCES": [
+            "DEREGULATION PRO B CEI GROUP",
+            "FREE-ENTERPRISE PRO B CEI GROUP",
+            "PRIVATIZATION PRO B CEI GROUP"
+        ],
+        "ENGLISH": "the Competitive Enterprise Institute",
+        "ENGLISH-SHORT": "the CEI",
+        "PRO-ENGLISH": "the sound business agenda of CEI",
+        "CON-ENGLISH": "the CEI business special interest lobby",
+        "SYNONYMS": [
+            "CEI"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3061"
+    },
+    {
+        "NAME": "Consumer Federation of America",
+        "ISSUES": [
+            "CONSUMER",
+            "HEALTH",
+            "SAFETY"
+        ],
+        "STANCES": [
+            "CONSUMER PRO B CFA GROUP",
+            "HEALTH PRO B CFA GROUP",
+            "SAFETY PRO B CFA GROUP",
+            "DEREGULATION CON B CFA GROUP",
+            "LEGAL-SERVICES PRO C CFA GROUP",
+            "FOOD-STAMPS PRO C CFA GROUP"
+        ],
+        "ENGLISH": "the Consumer Federation of America",
+        "ENGLISH-SHORT": "the CFA",
+        "SYNONYMS": [
+            "CFA"
+        ],
+        "NORM": "CFA PRO C GROUP.3055 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3055"
+    },
+    {
+        "NAME": "Consumers",
+        "ISSUES": [
+            "CONSUMER",
+            "SAFETY"
+        ],
+        "STANCES": [
+            "CONSUMER PRO B CONSUMERS GROUP",
+            "HEALTH PRO B CONSUMERS GROUP",
+            "SAFETY PRO B CONSUMERS GROUP"
+        ],
+        "ENGLISH": "consumers",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "CONSUMER"
+        ],
+        "NORM": "CONSUMERS PRO C GROUP.1382 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "1 22 1989",
+        "SYMBOL": "GROUP.1382"
+    },
+    {
+        "NAME": "Country",
+        "STANCES": [
+            "ARMS-CONTROL PRO B COUNTRY GROUP",
+            "BALANCED-BUDGET PRO C COUNTRY GROUP",
+            "INDUSTRY PRO C COUNTRY GROUP",
+            "CHILD-CARE PRO C COUNTRY GROUP",
+            "CIVIL-LIBERTIES PRO C COUNTRY GROUP",
+            "CIVIL-RIGHTS PRO C COUNTRY GROUP",
+            "CONSTITUTION PRO B COUNTRY GROUP",
+            "CONVENTIONAL-DEFENSE PRO C COUNTRY GROUP",
+            "DEFENSE PRO C COUNTRY GROUP",
+            "DEFICIT CON C COUNTRY GROUP",
+            "DEMOCRACY PRO B COUNTRY GROUP",
+            "ENERGY PRO C COUNTRY GROUP",
+            "EQUALITY PRO B COUNTRY GROUP",
+            "FAIRNESS PRO B COUNTRY GROUP",
+            "FREE-ENTERPRISE PRO C COUNTRY GROUP",
+            "FREEDOM PRO B COUNTRY GROUP",
+            "JOBS PRO C COUNTRY GROUP",
+            "HEALTH PRO B COUNTRY GROUP",
+            "HOUSING PRO C COUNTRY GROUP",
+            "HUMAN-RIGHTS PRO C COUNTRY GROUP",
+            "INFLATION PRO C COUNTRY GROUP",
+            "JUSTICE PRO C COUNTRY GROUP",
+            "LAW-AND-ORDER PRO C COUNTRY GROUP",
+            "EDUCATION-RIGHTS PRO C COUNTRY GROUP",
+            "SOCIAL-SECURITY PRO C COUNTRY GROUP",
+            "UNEMPLOYMENT-INSURANCE PRO C COUNTRY GROUP",
+            "VOTING-RIGHTS PRO B COUNTRY GROUP",
+            "WOMENS-RIGHTS PRO C COUNTRY GROUP",
+            "FUTURE PRO C COUNTRY GROUP"
+        ],
+        "ENGLISH": "the country as a whole",
+        "ENGLISH-SHORT": "the country",
+        "SYNONYMS": [
+            "COUNTRY",
+            "US"
+        ],
+        "NORM": "COUNTRY PRO B GROUP.409 GROUP",
+        "STATUS": "Active",
+        "DATE-OPEN": "2 7 1990",
+        "SYMBOL": "GROUP.409"
+    },
+    {
+        "NAME": "Defense Contractors",
+        "STANCES": [
+            "DEFENSE PRO B DEFENSE-CONTRACTORS GROUP",
+            "WEAPONS PRO B DEFENSE-CONTRACTORS GROUP",
+            "SPENDING PRO B DEFENSE-CONTRACTORS GROUP"
+        ],
+        "ENGLISH": "defense contractors",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "DEFENSE-CONTRACTORS"
+        ],
+        "NORM": "DEFENSE-CONTRACTORS CON C GROUP.175 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.175"
+    },
+    {
+        "NAME": "Defense Industry",
+        "ISSUES": [
+            "DEFENSE",
+            "SDI"
+        ],
+        "STANCES": [
+            "DEFENSE PRO B DEFENSE GROUP",
+            "WEAPONS PRO B DEFENSE GROUP",
+            "SPENDING PRO B DEFENSE GROUP",
+            "SDI PRO B DEFENSE GROUP"
+        ],
+        "ENGLISH": "the defense industry",
+        "SYNONYMS": [
+            "DEFENSE",
+            "DEFENSE-INDUSTRY"
+        ],
+        "NORM": "DEFENSE CON C GROUP.1017 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "2 18 1989",
+        "SYMBOL": "GROUP.1017"
+    },
+    {
+        "NAME": "Democrats",
+        "STANCES": [
+            "AFFIRMATIVE-ACTION PRO B DEMOCRATS GROUP",
+            "FARM PRO B DEMOCRATS GROUP",
+            "CONTRA-AID CON B DEMOCRATS GROUP",
+            "AIR-POLLUTION-CONTROL PRO B DEMOCRATS GROUP",
+            "ANTI-SEMITISM CON B DEMOCRATS GROUP",
+            "APARTHEID CON B DEMOCRATS GROUP",
+            "ARMS-CONTROL PRO B DEMOCRATS GROUP",
+            "BORK CON B DEMOCRATS GROUP",
+            "TOWER CON B DEMOCRATS GROUP",
+            "CHILD-CARE PRO B DEMOCRATS GROUP",
+            "CIVIL-RIGHTS PRO B DEMOCRATS GROUP",
+            "CONSTRUCTIVE-ENGAGEMENT CON B DEMOCRATS GROUP",
+            "DOMESTIC PRO B DEMOCRATS GROUP",
+            "ERA PRO B DEMOCRATS GROUP",
+            "LABOR PRO B DEMOCRATS GROUP",
+            "MANION CON B DEMOCRATS GROUP",
+            "OPEN-HOUSING PRO B DEMOCRATS GROUP",
+            "PLANT-CLOSING PRO B DEMOCRATS GROUP",
+            "PUBLIC-WORKS PRO B DEMOCRATS GROUP",
+            "RURAL-ELECTRIC PRO B DEMOCRATS GROUP",
+            "DESEGREGATION PRO B DEMOCRATS GROUP",
+            "SOCIAL-SECURITY PRO B DEMOCRATS GROUP",
+            "TAX-REFORM PRO B DEMOCRATS GROUP",
+            "URBAN PRO B DEMOCRATS GROUP",
+            "VOTING-RIGHTS PRO B DEMOCRATS GROUP",
+            "WATER-POLLUTION-CONTROL PRO B DEMOCRATS GROUP",
+            "WOMENS-RIGHTS PRO B DEMOCRATS GROUP",
+            "WHISTLE-BLOWERS PRO B DEMOCRATS GROUP",
+            "DEATH-PENALTY PRO C DEMOCRATS GROUP",
+            "FLAG-BURNING CON C DEMOCRATS GROUP",
+            "SDI CON C DEMOCRATS GROUP",
+            "JOB-PROTECTION PRO C DEMOCRATS GROUP"
+        ],
+        "ENGLISH": "members of the Democratic party",
+        "PRO-ENGLISH": "progressive, compassionate Democrats",
+        "CON-ENGLISH": "tax-and-spend, liberal Democrats",
+        "FRENCH": "les membres du parti De'mocratique",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "PARTY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2991"
+    },
+    {
+        "NAME": "Doves",
+        "ISSUES": [
+            "ARMS-CONTROL"
+        ],
+        "STANCES": [
+            "ARMS-CONTROL PRO B DOVES GROUP",
+            "WEAPONS CON B DOVES GROUP"
+        ],
+        "ENGLISH": "doves",
+        "NUMBER": "PLUR",
+        "NORM": "DOVES CON C GROUP.162 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.162"
+    },
+    {
+        "NAME": "Elderly",
+        "ISSUES": [
+            "SOCIAL-SECURITY"
+        ],
+        "STANCES": [
+            "SOCIAL-SECURITY PRO B ELDERLY GROUP",
+            "HEALTH PRO B ELDERLY GROUP",
+            "LAW-AND-ORDER PRO C ELDERLY GROUP"
+        ],
+        "ENGLISH": "elderly Americans",
+        "ENGLISH-SHORT": "the elderly",
+        "PRO-ENGLISH": "the legitimate rights and concerns of elderly Americans",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "AGED",
+            "OLD"
+        ],
+        "NORM": "ELDERLY PRO B GROUP.158 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.158"
+    },
+    {
+        "NAME": "Environmental Defense Fund",
+        "ISSUES": [
+            "ENVIRONMENT",
+            "CONSERVATION",
+            "SMOKING-BAN"
+        ],
+        "STANCES": [
+            "CLEAN-AIR PRO B ENVIRONMENTAL-DEFENSE-FUND GROUP",
+            "DEREGULATION CON B ENVIRONMENTAL-DEFENSE-FUND GROUP",
+            "ECOLOGY PRO B ENVIRONMENTAL-DEFENSE-FUND GROUP",
+            "ACID-RAIN-CONTROL PRO B ENVIRONMENTAL-DEFENSE-FUND GROUP",
+            "CLEAN-WATER PRO B ENVIRONMENTAL-DEFENSE-FUND GROUP"
+        ],
+        "ENGLISH": "the Environmental Defense Fund",
+        "ENGLISH-SHORT": "EDF",
+        "SYNONYMS": [
+            "ENVIRONMENTAL-DEFENSE-FUND"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 25 1988",
+        "SYMBOL": "GROUP.868"
+    },
+    {
+        "NAME": "Environmental Protection Agency",
+        "ISSUES": [
+            "ENVIRONMENT"
+        ],
+        "ENGLISH": "the Environmental Protection Agency",
+        "ENGLISH-SHORT": "EPA",
+        "SYNONYMS": [
+            "EPA"
+        ],
+        "NORM": "EPA PRO C GROUP.3136 GROUP",
+        "ISA": [
+            "US-AGENCY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3136"
+    },
+    {
+        "NAME": "Ethnic",
+        "STANCES": [
+            "CIVIL-RIGHTS PRO B ETHNIC GROUP",
+            "OPEN-HOUSING PRO B ETHNIC GROUP",
+            "AFFIRMATIVE-ACTION PRO B ETHNIC GROUP",
+            "RACISM CON B ETHNIC GROUP"
+        ],
+        "ENGLISH": "ethnics",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "MINORITY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.1601"
+    },
+    {
+        "NAME": "Evangelicals",
+        "ISSUES": [
+            "ABORTION",
+            "CREATIONISM"
+        ],
+        "STANCES": [
+            "ABORTION CON B EVANGELICALS GROUP",
+            "CREATIONISM PRO B EVANGELICALS GROUP"
+        ],
+        "ENGLISH": "evangelicals",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "CHRISTIANS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.172"
+    },
+    {
+        "NAME": "Farming",
+        "ISSUES": [
+            "AGRICULTURE"
+        ],
+        "STANCES": [
+            "FARM PRO B FARMING GROUP"
+        ],
+        "ENGLISH": "the farming community",
+        "NORM": "FARMING PRO C GROUP.2407 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2407"
+    },
+    {
+        "NAME": "Fishing Industry",
+        "ENGLISH": "the fishing industry",
+        "SYNONYMS": [
+            "FISHING"
+        ],
+        "NORM": "FISHING PRO C GROUP.2426 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2426"
+    },
+    {
+        "NAME": "Foreign Groups",
+        "ENGLISH": "foreign groups",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "FOREIGN"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3130"
+    },
+    {
+        "NAME": "Friends",
+        "ENGLISH": "friends",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "FRIEND"
+        ],
+        "NORM": "FRIENDS PRO B GROUP.2416 GROUP",
+        "ISA": [
+            "SUPPORTER"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2416"
+    },
+    {
+        "NAME": "Gays",
+        "ISSUES": [
+            "AIDS"
+        ],
+        "STANCES": [
+            "AIDS PRO B GAYS GROUP",
+            "CIVIL-RIGHTS PRO B GAYS GROUP"
+        ],
+        "ENGLISH": "homosexuals",
+        "ENGLISH-SHORT": "gays",
+        "PRO-ENGLISH": "the legimate rights of gays",
+        "CON-ENGLISH": "immoral homosexuals",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "LESBIANS",
+            "HOMOSEXUALS"
+        ],
+        "NORM": "GAYS CON C GROUP.157 GROUP",
+        "ISA": [
+            "MINORITY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.157"
+    },
+    {
+        "NAME": "Generic Group",
+        "SYNONYMS": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "1 31 1989",
+        "SYMBOL": "GROUP.696"
+    },
+    {
+        "NAME": "Handicapped",
+        "ISSUES": [
+            "CIVIL-RIGHTS"
+        ],
+        "STANCES": [
+            "CIVIL-RIGHTS PRO B HANDICAPPED GROUP"
+        ],
+        "ENGLISH": "physically challenged Americans",
+        "ENGLISH-SHORT": "the handicapped",
+        "PRO-ENGLISH": "the legitimate rights and concerns of the handicapped",
+        "NUMBER": "PLUR",
+        "NORM": "HANDICAPPED PRO C GROUP.170 GROUP",
+        "ISA": [
+            "MINORITY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.170"
+    },
+    {
+        "NAME": "Hawks",
+        "ISSUES": [
+            "CONTRA-AID"
+        ],
+        "STANCES": [
+            "CONTRA-AID PRO B HAWKS GROUP",
+            "WEAPONS PRO B HAWKS GROUP",
+            "DEFENSE PRO B HAWKS GROUP"
+        ],
+        "ENGLISH": "hawks",
+        "NUMBER": "PLUR",
+        "NORM": "HAWKS CON C GROUP.161 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.161"
+    },
+    {
+        "NAME": "Hispanics",
+        "ISSUES": [
+            "CIVIL-RIGHTS"
+        ],
+        "STANCES": [
+            "CIVIL-RIGHTS PRO B HISPANICS GROUP",
+            "RACISM CON B HISPANICS GROUP"
+        ],
+        "ENGLISH": "Hispanic-Americans",
+        "ENGLISH-SHORT": "hispanics",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "ETHNIC"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.167"
+    },
+    {
+        "NAME": "House Administration Committee",
+        "ISSUES": [
+            "CAMPAIGN-FINANCE"
+        ],
+        "SYNONYMS": [
+            "HOUSE-ADMINISTRATION"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3172"
+    },
+    {
+        "NAME": "House Agriculture Committee",
+        "ISSUES": [
+            "FARM"
+        ],
+        "SYNONYMS": [
+            "HOUSE-AGRICULTURE"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3170"
+    },
+    {
+        "NAME": "House Appropriations Committee",
+        "SYNONYMS": [
+            "HOUSE-APPROPRIATIONS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3162"
+    },
+    {
+        "NAME": "House Armed Services Committee",
+        "ISSUES": [
+            "DEFENSE"
+        ],
+        "SYNONYMS": [
+            "HOUSE-ARMED-SERVICES"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3169"
+    },
+    {
+        "NAME": "House Banking, Finance, and Urban Affairs",
+        "ISSUES": [
+            "BANKING"
+        ],
+        "SYNONYMS": [
+            "HOUSE-BANKING"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3171"
+    },
+    {
+        "NAME": "House Budget Committee",
+        "SYNONYMS": [
+            "HOUSE-BUDGET"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3159"
+    },
+    {
+        "NAME": "House Democratic Caucus",
+        "SYNONYMS": [
+            "HOUSE-DEMOCRATIC-CAUCUS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 6 1988",
+        "SYMBOL": "GROUP.3176"
+    },
+    {
+        "NAME": "House District of Columbia Committee",
+        "SYNONYMS": [
+            "HOUSE-DC"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 19 1989",
+        "SYMBOL": "GROUP.1080"
+    },
+    {
+        "NAME": "House Education and Labor Committee",
+        "ISSUES": [
+            "EDUCATION"
+        ],
+        "SYNONYMS": [
+            "HOUSE-EDUCATION"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3166"
+    },
+    {
+        "NAME": "House Energy and Commerce Committee",
+        "SYNONYMS": [
+            "HOUSE-ENERGY"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3161"
+    },
+    {
+        "NAME": "House Foreign Affairs Committee",
+        "ISSUES": [
+            "FOREIGN"
+        ],
+        "SYNONYMS": [
+            "HOUSE-FOREIGN"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3167"
+    },
+    {
+        "NAME": "House Government Operations Committee",
+        "SYNONYMS": [
+            "HOUSE-GOVERNMENT-OPERATIONS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 19 1989",
+        "SYMBOL": "GROUP.1057"
+    },
+    {
+        "NAME": "House Interior Committee",
+        "SYNONYMS": [
+            "HOUSE-INTERIOR"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3165"
+    },
+    {
+        "NAME": "House Judiciary Committee",
+        "ISSUES": [
+            "ABORTION",
+            "PRAYER",
+            "DEATH-PENALTY",
+            "GUN-CONTROL",
+            "LAW-AND-ORDER",
+            "BUSING"
+        ],
+        "SYNONYMS": [
+            "HOUSE-JUDICIARY"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3164"
+    },
+    {
+        "NAME": "House Majority Leader",
+        "SYNONYMS": [
+            "HOUSE-MAJORITY-LEADER"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3173"
+    },
+    {
+        "NAME": "House Majority Whip",
+        "SYNONYMS": [
+            "HOUSE-MAJORITY-WHIP"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 6 1988",
+        "SYMBOL": "GROUP.3174"
+    },
+    {
+        "NAME": "House Merchant Marine and Fisheries Committee",
+        "ISSUES": [
+            "FISHING",
+            "BOATING"
+        ],
+        "SYNONYMS": [
+            "HOUSE-MERCHANT-MARINE"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 19 1989",
+        "SYMBOL": "GROUP.1070"
+    },
+    {
+        "NAME": "House Minority Leader",
+        "SYNONYMS": [
+            "HOUSE-MINORITY-LEADER"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 6 1988",
+        "SYMBOL": "GROUP.3175"
+    },
+    {
+        "NAME": "House Permanent Select Committee on Intelligence",
+        "ISSUES": [
+            "INTELLIGENCE"
+        ],
+        "SYNONYMS": [
+            "HOUSE-INTELLIGENCE"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 19 1989",
+        "SYMBOL": "GROUP.1083"
+    },
+    {
+        "NAME": "House Public Works and Transportation",
+        "ISSUES": [
+            "PUBLIC-WORKS",
+            "TRANSPORTATION"
+        ],
+        "SYNONYMS": [
+            "HOUSE-PUBLIC-WORKS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3168"
+    },
+    {
+        "NAME": "House Republican Policy Caucus",
+        "SYNONYMS": [
+            "HOUSE-REPUBLICAN-CAUCUS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 6 1988",
+        "SYMBOL": "GROUP.3177"
+    },
+    {
+        "NAME": "House Rules Committee",
+        "SYNONYMS": [
+            "HOUSE-RULES"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3163"
+    },
+    {
+        "NAME": "House Science Space and Technology Committee",
+        "ISSUES": [
+            "SCIENCE",
+            "SPACE",
+            "TECHNOLOGY"
+        ],
+        "SYNONYMS": [
+            "HOUSE-SCIENCE"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 19 1989",
+        "SYMBOL": "GROUP.1071"
+    },
+    {
+        "NAME": "House Select Committee on Aging",
+        "ISSUES": [
+            "AGING",
+            "ELDERLY"
+        ],
+        "SYNONYMS": [
+            "HOUSE-AGING"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 19 1989",
+        "SYMBOL": "GROUP.1072"
+    },
+    {
+        "NAME": "House Small Business Committee",
+        "ISSUES": [
+            "BUSINESS"
+        ],
+        "SYNONYMS": [
+            "HOUSE-SMALL-BUSINESS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 19 1989",
+        "SYMBOL": "GROUP.1085"
+    },
+    {
+        "NAME": "House Veterans Affairs Committee",
+        "ISSUES": [
+            "VETERANS"
+        ],
+        "SYNONYMS": [
+            "HOUSE-VETERANS-AFFAIRS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "2 18 1989",
+        "SYMBOL": "GROUP.1015"
+    },
+    {
+        "NAME": "House Ways and Means Committee",
+        "ISSUES": [
+            "TAXES",
+            "TRADE"
+        ],
+        "SYNONYMS": [
+            "HOUSE-WAYS"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3160"
+    },
+    {
+        "NAME": "Insurance Industry",
+        "ISSUES": [
+            "DEREGULATION"
+        ],
+        "STANCES": [
+            "DEREGULATION PRO B INSURANCE GROUP"
+        ],
+        "ENGLISH": "the insurance industry",
+        "SYNONYMS": [
+            "INSURANCE"
+        ],
+        "NORM": "INSURANCE CON C GROUP.2425 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2425"
+    },
+    {
+        "NAME": "International Monetary Fund",
+        "ISSUES": [
+            "THIRD-WORLD-DEBT"
+        ],
+        "ENGLISH": "the International Monetary Fund",
+        "ENGLISH-SHORT": "the IMF",
+        "SYNONYMS": [
+            "IMF"
+        ],
+        "NORM": "IMF PRO C GROUP.2583 GROUP",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "GROUP.2583"
+    },
+    {
+        "NAME": "International Red Cross",
+        "ENGLISH-SHORT": "the Red Cross",
+        "SYNONYMS": [
+            "RED-CROSS"
+        ],
+        "NORM": "RED-CROSS PRO C GROUP.2580 GROUP",
+        "ISA": [
+            "RELIEF-AGENCY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "GROUP.2580"
+    },
+    {
+        "NAME": "Jews",
+        "ISSUES": [
+            "ISRAEL",
+            "ANTI-SEMITISM"
+        ],
+        "STANCES": [
+            "ISRAEL PRO B JEWS GROUP",
+            "ANTI-SEMITISM CON B JEWS GROUP",
+            "SOVIET-JEWS PRO B JEWS GROUP",
+            "RACISM CON B JEWS GROUP",
+            "PRAYER CON B JEWS GROUP"
+        ],
+        "ENGLISH": "Jewish Americans",
+        "ENGLISH-SHORT": "Jews",
+        "PRO-ENGLISH": "the legitimate rights and concerns of Jewish Americans",
+        "CON-ENGLISH": "the narrow pro-Israel Jewish interests",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "JEW",
+            "JEWISH"
+        ],
+        "ISA": [
+            "RELIGION"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.165"
+    },
+    {
+        "NAME": "Journalists",
+        "STANCES": [
+            "CIVIL-LIBERTIES PRO B JOURNALIST GROUP"
+        ],
+        "ENGLISH": "journalists",
+        "NUMBER": "PLUR",
+        "NORM": "JOURNALIST PRO C GROUP.2413 GROUP",
+        "ISA": [
+            "MEDIA"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2413"
+    },
+    {
+        "NAME": "Labor Unions",
+        "ISSUES": [
+            "HEALTH-CARE",
+            "SOCIAL-SECURITY"
+        ],
+        "STANCES": [
+            "LABOR PRO B LABOR GROUP",
+            "HEALTH PRO B LABOR GROUP",
+            "SOCIAL-SECURITY PRO B LABOR GROUP",
+            "PLANT-CLOSING PRO B LABOR GROUP",
+            "SAFETY PRO B LABOR GROUP"
+        ],
+        "ENGLISH": "labor unions",
+        "ENGLISH-SHORT": "unions",
+        "PRO-ENGLISH": "hardworking union members",
+        "CON-ENGLISH": "labor bosses",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "LABOR",
+            "UNIONS",
+            "UNION"
+        ],
+        "NORM": "LABOR CON C GROUP.160 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.160"
+    },
+    {
+        "NAME": "League of Conservation Voters",
+        "ISSUES": [
+            "ENVIRONMENT",
+            "CONSERVATION"
+        ],
+        "STANCES": [
+            "ENERGY PRO B LCV GROUP",
+            "ENVIRONMENT PRO B LCV GROUP",
+            "CLEAN-WATER PRO B LCV GROUP",
+            "CLEAN-AIR PRO B LCV GROUP",
+            "SUPERFUND PRO B LCV GROUP",
+            "CLINCH-RIVER CON B LCV GROUP"
+        ],
+        "ENGLISH": "the League of Conservation Voters",
+        "ENGLISH-SHORT": "the LCV",
+        "SYNONYMS": [
+            "LCV"
+        ],
+        "NORM": "LCV PRO C GROUP.3056 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3056"
+    },
+    {
+        "NAME": "League of Women Voters",
+        "ENGLISH": "the League of Women Voters",
+        "ENGLISH-SHORT": "LWV",
+        "SYNONYMS": [
+            "LWV"
+        ],
+        "NORM": "LWV PRO C GROUP.3219 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "GROUP.3219"
+    },
+    {
+        "NAME": "Legal Services",
+        "ISSUES": [
+            "JUSTICE"
+        ],
+        "STANCES": [
+            "CIVIL-LIBERTIES PRO B LEGAL-AID GROUP",
+            "POVERTY PRO B LEGAL-AID GROUP"
+        ],
+        "ENGLISH": "Legal Services",
+        "PRO-ENGLISH": "Legal Service's pursuit of justice for the poor",
+        "CON-ENGLISH": "the liberal agenda of Legal Services",
+        "SYNONYMS": [
+            "LEGAL-AID",
+            "LEGAL-SERVICES"
+        ],
+        "NORM": "LEGAL-AID CON C GROUP.1406 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "11 1 1988",
+        "SYMBOL": "GROUP.1406"
+    },
+    {
+        "NAME": "Lobbyist",
+        "ENGLISH": "lobbyists",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "LOBBY"
+        ],
+        "NORM": "LOBBYIST CON C GROUP.3052 GROUP",
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3052"
+    },
+    {
+        "NAME": "Mining Industry",
+        "STANCES": [
+            "ENVIRONMENT CON B MINING GROUP"
+        ],
+        "ENGLISH": "the mining industry",
+        "SYNONYMS": [
+            "MINING",
+            "MINERALS"
+        ],
+        "NORM": "MINING PRO C GROUP.2422 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2422"
+    },
+    {
+        "NAME": "Minority Groups",
+        "STANCES": [
+            "CIVIL-RIGHTS PRO B MINORITY GROUP",
+            "OPEN-HOUSING PRO B MINORITY GROUP",
+            "AFFIRMATIVE-ACTION PRO B MINORITY GROUP",
+            "RACISM CON B MINORITY GROUP"
+        ],
+        "ENGLISH": "minority groups",
+        "ENGLISH-SHORT": "minorities",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "MINORITY"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2996"
+    },
+    {
+        "NAME": "Municipal Officials",
+        "ISSUES": [
+            "POVERTY",
+            "HOUSING",
+            "BOND-TAXATION"
+        ],
+        "STANCES": [
+            "POVERTY PRO B MUNICIPALITIES GROUP",
+            "HOUSING PRO B MUNICIPALITIES GROUP",
+            "LAW-AND-ORDER PRO B MUNICIPALITIES GROUP"
+        ],
+        "ENGLISH": "municipalities",
+        "ENGLISH-SHORT": "cities",
+        "PRO-ENGLISH": "our great urban centers",
+        "CON-ENGLISH": "crime-infested cities",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "MUNICIPALITIES"
+        ],
+        "NORM": "MUNICIPALITIES PRO C GROUP.2410 GROUP",
+        "ISA": [
+            "STATE-AND-LOCAL"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2410"
+    },
+    {
+        "NAME": "National Association for the Advancement of Colored People",
+        "ISSUES": [
+            "CIVIL-RIGHTS"
+        ],
+        "ENGLISH": "the NAACP",
+        "ENGLISH-SHORT": "the NAACP",
+        "PRO-ENGLISH": "the NAACP's courageous pursuit of civil rights",
+        "CON-ENGLISH": "the narrow special interest agenda of the NAACP",
+        "SYNONYMS": [
+            "NAACP"
+        ],
+        "NORM": "NAACP PRO C GROUP.174 GROUP",
+        "ISA": [
+            "BLACKS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.174"
+    },
+    {
+        "NAME": "National Education Association",
+        "ISSUES": [
+            "EDUCATION",
+            "CHILD-CARE",
+            "HEALTH"
+        ],
+        "STANCES": [
+            "EDUCATION PRO B NEA GROUP",
+            "LABOR PRO B NEA GROUP",
+            "CHILD-CARE PRO B NEA GROUP",
+            "HEALTH PRO C NEA GROUP"
+        ],
+        "ENGLISH": "the National Education Association",
+        "ENGLISH-SHORT": "the NEA",
+        "SYNONYMS": [
+            "NEA"
+        ],
+        "NORM": "NEA PRO C GROUP.456 GROUP",
+        "ISA": [
+            "LABOR"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 29 1990",
+        "SYMBOL": "GROUP.456"
+    },
+    {
+        "NAME": "National Organization of Women",
+        "ENGLISH": "the National Organization of Women",
+        "ENGLISH-SHORT": "NOW",
+        "PRO-ENGLISH": "NOW's defense of the basic rights of women",
+        "CON-ENGLISH": "NOW's radical feminist agenda",
+        "SYNONYMS": [
+            "NOW"
+        ],
+        "NORM": "NOW CON C GROUP.2994 GROUP",
+        "ISA": [
+            "WOMEN"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2994"
+    },
+    {
+        "NAME": "National Rifle Association",
+        "ISSUES": [
+            "GUN-CONTROL"
+        ],
+        "STANCES": [
+            "GUN-CONTROL CON A NRA GROUP",
+            "BILL-OF-RIGHTS PRO B NRA GROUP"
+        ],
+        "ENGLISH": "the National Rifle Association",
+        "ENGLISH-SHORT": "the NRA",
+        "PRO-ENGLISH": "the patriotic philosophy of the NRA",
+        "CON-ENGLISH": "the reactionary NRA gun lobby",
+        "SYNONYMS": [
+            "NRA"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.173"
+    },
+    {
+        "NAME": "National Security Index of the American Security Council",
+        "ISSUES": [
+            "FOREIGN",
+            "DEFENSE",
+            "WEAPONS"
+        ],
+        "STANCES": [
+            "DEFENSE PRO B NSI GROUP",
+            "MX PRO B NSI GROUP",
+            "B-1 PRO B NSI GROUP",
+            "EL-SALVADOR PRO B NSI GROUP",
+            "NUCLEAR-FREEZE CON C NSI GROUP"
+        ],
+        "ENGLISH": "the American Security Council",
+        "ENGLISH-SHORT": "the NSI",
+        "PRO-ENGLISH": "the sound defense posture of the NSI",
+        "CON-ENGLISH": "the NSI as an example of the radical right",
+        "SYNONYMS": [
+            "NSI"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3059"
+    },
+    {
+        "NAME": "National Taxpayers Union",
+        "ISSUES": [
+            "TAXES",
+            "SPENDING",
+            "WASTE"
+        ],
+        "STANCES": [
+            "TAXES CON B NTU GROUP",
+            "TAX-REFORM PRO B NTU GROUP"
+        ],
+        "ENGLISH": "the National Taxpayers Union",
+        "ENGLISH-SHORT": "the NTU",
+        "PRO-ENGLISH": "the NTU -- the taxpayer's lobbyist",
+        "SYNONYMS": [
+            "NTU"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 1 1988",
+        "SYMBOL": "GROUP.3058"
+    },
+    {
+        "NAME": "Native Americans",
+        "ISSUES": [
+            "CIVIL-RIGHTS"
+        ],
+        "ENGLISH": "native Americans",
+        "ENGLISH-SHORT": "indians",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "INDIANS"
+        ],
+        "ISA": [
+            "ETHNIC"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.168"
+    },
+    {
+        "NAME": "News Media",
+        "ISSUES": [
+            "FREEDOM-OF-THE-PRESS"
+        ],
+        "ENGLISH": "the news media",
+        "SYNONYMS": [
+            "NEWS",
+            "MEDIA"
+        ],
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.1914"
+    },
+    {
+        "NAME": "Newspaper Editors",
+        "ENGLISH": "newspaper editors",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "EDITOR"
+        ],
+        "ISA": [
+            "JO"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2412"
+    },
+    {
+        "NAME": "Newspapers",
+        "ENGLISH": "newspapers",
+        "NUMBER": "PLUR",
+        "ISA": [
+            "MEDIA"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.1915"
+    },
+    {
+        "NAME": "Occupational Health and Safety Administration",
+        "ISSUES": [
+            "SAFETY",
+            "HEALTH"
+        ],
+        "ENGLISH": "the Occupational Health and Safety Administration",
+        "ENGLISH-SHORT": "OSHA",
+        "SYNONYMS": [
+            "OSHA"
+        ],
+        "NORM": "OSHA CON C GROUP.2582 GROUP",
+        "ISA": [
+            "US-AGENCY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "GROUP.2582"
+    },
+    {
+        "NAME": "Oil Industry",
+        "STANCES": [
+            "DEREGULATION PRO B OIL GROUP",
+            "ENVIRONMENT CON B OIL GROUP"
+        ],
+        "ENGLISH": "the oil industry",
+        "SYNONYMS": [
+            "OIL"
+        ],
+        "NORM": "OIL CON C GROUP.2420 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2420"
+    },
+    {
+        "NAME": "Opponents",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "OPPONENT",
+            "OPPOSITION"
+        ],
+        "NORM": "OPPONENTS CON B GROUP.2417 GROUP",
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2417"
+    },
+    {
+        "NAME": "Palestine Liberation Organization",
+        "STANCES": [
+            "ISRAEL CON B PLO GROUP"
+        ],
+        "ENGLISH": "the Palestine Liberation Organization",
+        "ENGLISH-SHORT": "the PLO",
+        "PRO-ENGLISH": "the PLO as a legitimate representative of the interests of Palestinians",
+        "CON-ENGLISH": "the terrorist PLO",
+        "SYNONYMS": [
+            "PLO"
+        ],
+        "NORM": "PLO CON B GROUP.3131 GROUP",
+        "ISA": [
+            "FOREIGN"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3131"
+    },
+    {
+        "NAME": "Party Activists",
+        "ENGLISH": "party activists",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "POL",
+            "POLS"
+        ],
+        "ISA": [
+            "SUPPORTER"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2414"
+    },
+    {
+        "NAME": "Political Contributors",
+        "ENGLISH": "political contributors",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "CONTRIBUTORS"
+        ],
+        "NORM": "CONTRIBUTORS PRO C GROUP.2411 GROUP",
+        "ISA": [
+            "SUPPORTER"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2411"
+    },
+    {
+        "NAME": "Political Party",
+        "SYNONYMS": [
+            "PARTY"
+        ],
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2993"
+    },
+    {
+        "NAME": "Radio",
+        "ISA": [
+            "MEDIA"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.1917"
+    },
+    {
+        "NAME": "Ralph Nader",
+        "GENDER": "MALE",
+        "STANCES": [
+            "CONSUMER PRO C NADER GROUP",
+            "DEREGULATION CON B NADER GROUP",
+            "POVERTY PRO B NADER GROUP"
+        ],
+        "ENGLISH": "Ralph Nader",
+        "ENGLISH-SHORT": "Nader",
+        "SYNONYMS": [
+            "NADER"
+        ],
+        "NORM": "NADER PRO C GROUP.1381 GROUP",
+        "ISA": [
+            "CONSUMERS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "1 22 1989",
+        "SYMBOL": "GROUP.1381"
+    },
+    {
+        "NAME": "Relief Agency",
+        "SYNONYMS": [
+            "RELIEF-AGENCY"
+        ],
+        "NORM": "RELIEF-AGENCY PRO C GROUP.2581 GROUP",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "GROUP.2581"
+    },
+    {
+        "NAME": "Religious Organizations",
+        "ENGLISH": "religious organizations",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "RELIGION"
+        ],
+        "NORM": "RELIGION PRO C GROUP.2995 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2995"
+    },
+    {
+        "NAME": "Republicans",
+        "STANCES": [
+            "ABORTION CON B REPUBLICANS GROUP",
+            "CONTRA-AID PRO B REPUBLICANS GROUP",
+            "BORK PRO B REPUBLICANS GROUP",
+            "VETERANS PRO B REPUBLICANS GROUP",
+            "CENTRAL-AMERICAN-PEACE-PLAN CON B REPUBLICANS GROUP",
+            "COMMUNISM CON B REPUBLICANS GROUP",
+            "CONSTRUCTIVE-ENGAGEMENT PRO B REPUBLICANS GROUP",
+            "DEFENSE PRO B REPUBLICANS GROUP",
+            "DEREGULATION PRO B REPUBLICANS GROUP",
+            "DRUGS PRO B REPUBLICANS GROUP",
+            "ERA CON B REPUBLICANS GROUP",
+            "GUN-CONTROL CON B REPUBLICANS GROUP",
+            "NUCLEAR-FREEZE CON B REPUBLICANS GROUP",
+            "PATRIOTISM PRO B REPUBLICANS GROUP",
+            "PLANT-CLOSING CON B REPUBLICANS GROUP",
+            "PLEDGE PRO B REPUBLICANS GROUP",
+            "FURLOUGHS CON B REPUBLICANS GROUP",
+            "PRAYER PRO B REPUBLICANS GROUP",
+            "TAXES CON B REPUBLICANS GROUP",
+            "TOWER PRO B REPUBLICANS GROUP",
+            "FISCAL-RESPONSIBILITY PRO C REPUBLICANS GROUP",
+            "GAY-RIGHTS CON C REPUBLICANS GROUP",
+            "SPUR-INVESTMENT PRO B REPUBLICANS GROUP",
+            "CAPITAL-GAINS-TAX-CUT PRO C REPUBLICANS GROUP"
+        ],
+        "ENGLISH": "Republicans",
+        "PRO-ENGLISH": "conservative and fiscally responsible Republicans",
+        "CON-ENGLISH": "heartless and reactionary Republicans",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "GOP"
+        ],
+        "ISA": [
+            "PARTY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2992"
+    },
+    {
+        "NAME": "Senate Agriculture, Nutrition, and Forestry Committee",
+        "ISSUES": [
+            "FARM"
+        ],
+        "SYNONYMS": [
+            "SEN-AGRICULTURE"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3151"
+    },
+    {
+        "NAME": "Senate Appropriations Committee",
+        "SYNONYMS": [
+            "SEN-APPROPRIATIONS"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3143"
+    },
+    {
+        "NAME": "Senate Armed Services Committee",
+        "SYNONYMS": [
+            "SEN-ARMED-SERVICES"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3144"
+    },
+    {
+        "NAME": "Senate Banking, Housing, and Urban Affairs Committee",
+        "SYNONYMS": [
+            "SEN-BANKING"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3153"
+    },
+    {
+        "NAME": "Senate Budget Committee",
+        "SYNONYMS": [
+            "SEN-BUDGET"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3141"
+    },
+    {
+        "NAME": "Senate Commerce, Science, and Transportation Committee",
+        "SYNONYMS": [
+            "SEN-COMMERCE"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3147"
+    },
+    {
+        "NAME": "Senate Energy and Natural Resources Committee",
+        "SYNONYMS": [
+            "SEN-ENERGY"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3152"
+    },
+    {
+        "NAME": "Senate Environment and Public Works Committee",
+        "ISSUES": [
+            "ENVIRONMENT",
+            "PUBLIC-WORKS"
+        ],
+        "SYNONYMS": [
+            "SEN-ENVIRONMENT"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3149"
+    },
+    {
+        "NAME": "Senate Finance Committee",
+        "SYNONYMS": [
+            "SEN-FINANCE"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3142"
+    },
+    {
+        "NAME": "Senate Foreign Relations Committee",
+        "ISSUES": [
+            "FOREIGN"
+        ],
+        "SYNONYMS": [
+            "SEN-FOREIGN"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3145"
+    },
+    {
+        "NAME": "Senate Governmental Affairs Committee",
+        "SYNONYMS": [
+            "SEN-GOVERNMENTAL"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3154"
+    },
+    {
+        "NAME": "Senate Judiciary Committee",
+        "ISSUES": [
+            "ABORTION",
+            "PRAYER",
+            "DEATH-PENALTY",
+            "GUN-CONTROL",
+            "LAW-AND-ORDER",
+            "BUSING"
+        ],
+        "SYNONYMS": [
+            "SEN-JUDICIARY"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3148"
+    },
+    {
+        "NAME": "Senate Labor and Human Resources Committee",
+        "ISSUES": [
+            "LABOR"
+        ],
+        "SYNONYMS": [
+            "SEN-LABOR"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3150"
+    },
+    {
+        "NAME": "Senate Majority Leader",
+        "GENDER": "MALE",
+        "SYNONYMS": [
+            "SENATE-MAJORITY-LEADER"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3140"
+    },
+    {
+        "NAME": "Senate Majority Whip",
+        "GENDER": "MALE",
+        "SYNONYMS": [
+            "SEN-MAJORITY-WHIP"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3156"
+    },
+    {
+        "NAME": "Senate Minority Leader",
+        "GENDER": "MALE",
+        "SYNONYMS": [
+            "SEN-MINORITY-LEADER"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3157"
+    },
+    {
+        "NAME": "Senate Select Committee on Intelligence",
+        "ISSUES": [
+            "INTELLIGENCE"
+        ],
+        "SYNONYMS": [
+            "SEN-INTELLIGENCE"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3146"
+    },
+    {
+        "NAME": "Senate Veterans Affairs Committee",
+        "ISSUES": [
+            "VETERANS"
+        ],
+        "SYNONYMS": [
+            "SEN-VETERANS"
+        ],
+        "ISA": [
+            "SENATE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3155"
+    },
+    {
+        "NAME": "Ship Building",
+        "ENGLISH": "the ship building industry",
+        "SYNONYMS": [
+            "SHIPS"
+        ],
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2428"
+    },
+    {
+        "NAME": "Shipping Industry",
+        "ENGLISH": "the shipping industry",
+        "ENGLISH-SHORT": "shipping",
+        "SYNONYMS": [
+            "SHIPPING"
+        ],
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2427"
+    },
+    {
+        "NAME": "Shoe Industry",
+        "ISSUES": [
+            "TRADE"
+        ],
+        "STANCES": [
+            "TRADE-RESTRICTIONS PRO B SHOE GROUP"
+        ],
+        "ENGLISH": "the shoe industry",
+        "SYNONYMS": [
+            "SHOE",
+            "SHOES"
+        ],
+        "NORM": "SHOE PRO C GROUP.2421 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2421"
+    },
+    {
+        "NAME": "Speaker of the House",
+        "GENDER": "MALE",
+        "ENGLISH": "the Speaker of the House",
+        "ENGLISH-SHORT": "the Speaker",
+        "SYNONYMS": [
+            "SPEAKER"
+        ],
+        "ISA": [
+            "HOUSE"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3158"
+    },
+    {
+        "NAME": "State and Local Government",
+        "SYNONYMS": [
+            "STATE-AND-LOCAL"
+        ],
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2409"
+    },
+    {
+        "NAME": "Steel Industry",
+        "ISSUES": [
+            "TRADE"
+        ],
+        "STANCES": [
+            "TRADE-RESTRICTIONS PRO B STEEL GROUP",
+            "CLEAN-AIR CON B STEEL GROUP",
+            "CLEAN-WATER CON B STEEL GROUP"
+        ],
+        "ENGLISH": "the steel industry",
+        "ENGLISH-SHORT": "steel",
+        "SYNONYMS": [
+            "STEEL"
+        ],
+        "NORM": "STEEL PRO C GROUP.2423 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2423"
+    },
+    {
+        "NAME": "Supporters",
+        "ENGLISH": "supporters",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "SUPPORTER"
+        ],
+        "NORM": "SUPPORTERS PRO B GROUP.2415 GROUP",
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2415"
+    },
+    {
+        "NAME": "Teamsters",
+        "STANCES": [
+            "LABOR PRO B TEAMSTERS GROUP"
+        ],
+        "ENGLISH": "the Teamsters",
+        "ENGLISH-SHORT": "Teamsters",
+        "CON-ENGLISH": "Teamster hoods and bosses",
+        "NORM": "TEAMSTERS CON C GROUP.2998 GROUP",
+        "ISA": [
+            "UNION"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2998"
+    },
+    {
+        "NAME": "Television",
+        "SYNONYMS": [
+            "TV"
+        ],
+        "ISA": [
+            "MEDIA"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.1916"
+    },
+    {
+        "NAME": "The Committee for the Survival of a Free Congress",
+        "STANCES": [
+            "PRAYER PRO C CSFC GROUP",
+            "EL-SALVADOR PRO C CSFC GROUP",
+            "TAX-CUTS PRO C CSFC GROUP",
+            "LEGAL-SERVICES CON C CSFC GROUP",
+            "HOUSING CON C CSFC GROUP",
+            "ABORTION CON C CSFC GROUP"
+        ],
+        "ENGLISH": "the Committee for the Survival of a Free Congress",
+        "ENGLISH-SHORT": "the CSFC",
+        "SYNONYMS": [
+            "CSFC"
+        ],
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "5 4 1989",
+        "SYMBOL": "GROUP.3063"
+    },
+    {
+        "NAME": "Tobacco Industry",
+        "STANCES": [
+            "TOBACCO-PRICE-SUPPORTS PRO B TOBACCO GROUP"
+        ],
+        "ENGLISH": "the tobacco industry",
+        "ENGLISH-SHORT": "tobacco",
+        "SYNONYMS": [
+            "TOBACCO"
+        ],
+        "NORM": "TOBACCO CON C GROUP.2418 GROUP",
+        "ISA": [
+            "INDUSTRY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 28 1988",
+        "SYMBOL": "GROUP.2418"
+    },
+    {
+        "NAME": "UNITA",
+        "ENGLISH": "UNITA",
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "GROUP.2578"
+    },
+    {
+        "NAME": "US Congress",
+        "ENGLISH": "the US Congress",
+        "ENGLISH-SHORT": "Congress",
+        "SYNONYMS": [
+            "CONGRESS"
+        ],
+        "ISA": [
+            "USA"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3137"
+    },
+    {
+        "NAME": "US Government",
+        "ENGLISH": "the United States government",
+        "ENGLISH-SHORT": "the US government",
+        "SYNONYMS": [
+            "USA"
+        ],
+        "ISA": [
+            "GROUP"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3133"
+    },
+    {
+        "NAME": "US Government Agencies",
+        "SYNONYMS": [
+            "US-AGENCY"
+        ],
+        "ISA": [
+            "USA"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3134"
+    },
+    {
+        "NAME": "US House of Representatives",
+        "ENGLISH": "the US House of Representatives",
+        "ENGLISH-SHORT": "the House",
+        "SYNONYMS": [
+            "HOUSE"
+        ],
+        "ISA": [
+            "CONGRESS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3139"
+    },
+    {
+        "NAME": "US Senate",
+        "ENGLISH": "the US Senate",
+        "ENGLISH-SHORT": "the Senate",
+        "SYNONYMS": [
+            "SENATE"
+        ],
+        "ISA": [
+            "CONGRESS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3138"
+    },
+    {
+        "NAME": "United Nations",
+        "ENGLISH": "the United Nations",
+        "ENGLISH-SHORT": "the UN",
+        "SYNONYMS": [
+            "UN"
+        ],
+        "ISA": [
+            "FOREIGN"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "9 5 1988",
+        "SYMBOL": "GROUP.3132"
+    },
+    {
+        "NAME": "Veterans Groups",
+        "ISSUES": [
+            "VETERANS-BENEFITS",
+            "PATRIOTISM"
+        ],
+        "STANCES": [
+            "VETERANS PRO B VETERAN GROUP",
+            "DEFENSE PRO B VETERAN GROUP",
+            "CABINET-VETERANS PRO B VETERAN GROUP"
+        ],
+        "ENGLISH": "veterans groups",
+        "ENGLISH-SHORT": "veterans",
+        "PRO-ENGLISH": "brave and patriotic American veterans",
+        "CON-ENGLISH": "the narrow selfish interests of veterans",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "VETERAN",
+            "VETERANS"
+        ],
+        "NORM": "VETERAN PRO C GROUP.163 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.163"
+    },
+    {
+        "NAME": "Veterans of Foreign Wars",
+        "ENGLISH": "the Veterans of Foreign Wars",
+        "ENGLISH-SHORT": "the VFW",
+        "SYNONYMS": [
+            "VFW"
+        ],
+        "NORM": "VFW PRO C GROUP.2999 GROUP",
+        "ISA": [
+            "VETERANS"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 26 1988",
+        "SYMBOL": "GROUP.2999"
+    },
+    {
+        "NAME": "Womens Groups",
+        "ISSUES": [
+            "ERA",
+            "ABORTION",
+            "CHILD-CARE"
+        ],
+        "STANCES": [
+            "ERA PRO B WOMEN GROUP",
+            "AFFIRMATIVE-ACTION PRO B WOMEN GROUP",
+            "ABORTION PRO B WOMEN GROUP",
+            "CHILD-CARE PRO B WOMEN GROUP",
+            "WOMENS-RIGHTS PRO B WOMEN GROUP"
+        ],
+        "ENGLISH": "women's groups",
+        "ENGLISH-SHORT": "women",
+        "PRO-ENGLISH": "women's legitimate aspirations for equality and respect",
+        "CON-ENGLISH": "radical feminists",
+        "NUMBER": "PLUR",
+        "SYNONYMS": [
+            "WOMEN"
+        ],
+        "NORM": "WOMEN CON C GROUP.164 GROUP",
+        "ISA": [
+            "LOBBY"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "8 25 1988",
+        "SYMBOL": "GROUP.164"
+    },
+    {
+        "NAME": "World Bank",
+        "ISSUES": [
+            "THIRD-WORLD-DEBT"
+        ],
+        "ENGLISH": "the World Bank",
+        "SYNONYMS": [
+            "WORLD-BANK"
+        ],
+        "STATUS": "Active",
+        "DATE-OPEN": "4 16 1989",
+        "SYMBOL": "GROUP.2584"
+    }
+]
