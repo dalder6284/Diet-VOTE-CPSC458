@@ -59,8 +59,7 @@ Using these, we find and connect stances in cg.py.
 #### **How to run a VOTE**
 
 Run the following command in your shell with
-`<code>`{=html}cg.py`</code>`{=html},
-`<code>`{=html}load_databases.py`</code>`{=html}, and the database
+`cg.py`, `load_databases.py`, and the database
 folder all being in the same directory.
 
 ``` python
