@@ -1,4 +1,4 @@
-### DIET VOTE: A replication of the roll call prediction program VOTE procedures. {#diet-vote-a-replication-of-the-roll-call-prediction-program-vote-procedures}
+### DIET VOTE: A replication of the roll call prediction program VOTE procedures.
 
 #### Translated from LISP to Python by Diego Alderete
 
