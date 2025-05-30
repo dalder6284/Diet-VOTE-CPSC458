@@ -20,7 +20,7 @@ decisions made, this program is much less complicated due to time
 constraints and due to LISP being difficult to understand for an
 unexperienced first-year computer science student. I did not include any
 of the above mentioned, and there are fewer strategies that the
-`<code>`{=html}vote`</code>`{=html} function runs through.
+`vote` function runs through.
 
 I have, however, put the BILLS, GROUPS, ISSUES, MEMBERS, and STRATEGIES
 files into a standardized JSON format as a gift for all future students
